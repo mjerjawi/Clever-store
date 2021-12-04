@@ -7,7 +7,7 @@ dotenv.config({ path: 'src/config/.env' })
 
 const start = async () => {
   mongoConnect()
-  const port: Number = 3000
+  const port: Number = 5000
   app.listen(port, () => {
     console.log(`Server is listening on port ${port}`)
   })

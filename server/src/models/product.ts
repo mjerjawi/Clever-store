@@ -21,17 +21,15 @@ const productSchema = new Schema<Product>(
   {
     name: {
       type: String,
-      required: [true, 'Please enter product name'],
-      trim: true,
-      maxLength: [150, 'Product name must not exceed 150 characters'],
+      required: true,
     },
     price: {
       type: String,
-      required: [true, 'Please enter product price'],
+      required: true,
     },
     description: {
       type: String,
-      required: [true, 'Please enter product description'],
+      required: true,
     },
     ratings: {
       type: Number,
@@ -71,24 +69,29 @@ const productSchema = new Schema<Product>(
     ],
     category: {
       type: String,
-      required: [true, 'Please Select a category'],
+      required: true,
     },
     supplier: {
       type: String,
-      required: [true, 'Please enter a supplier name'],
+      required: true,
     },
     stock: {
       type: Number,
       required: true,
       default: 0,
     },
-    user: {
-      type: refId,
-      ref: 'User',
-      required: true,
-    },
   },
   {
     timestamps: true,
+    toJSON: {
+      transform(doc, ret) {
+        ret.id = ret._id
+        delete ret._id
+      },
+    },
   }
 )
+
+const Product = model('Product', productSchema)
+
+export { Product }
