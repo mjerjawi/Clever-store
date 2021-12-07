@@ -1,7 +1,5 @@
 import mongoose, { Schema, model } from 'mongoose'
 
-var refId = new mongoose.Types.ObjectId()
-
 //Interface representing a document in MongoDB.
 interface Product {
   name: string
@@ -17,7 +15,7 @@ interface Product {
   user: mongoose.Types.ObjectId
 }
 
-const productSchema = new Schema<Product>(
+const ProductSchema = new Schema<Product>(
   {
     name: {
       type: String,
@@ -92,6 +90,6 @@ const productSchema = new Schema<Product>(
   }
 )
 
-const Product = model('Product', productSchema)
+const Product = model('Product', ProductSchema)
 
 export { Product }

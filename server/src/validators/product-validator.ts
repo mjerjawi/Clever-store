@@ -5,13 +5,11 @@ import { httpStatusCodes } from '../config/http-status-codes'
 export const productValidator = [
   check('name')
     .trim()
-    .escape()
-    .not()
-    .isEmpty()
+    .notEmpty()
     .withMessage('Product name can not be empty!')
     .bail()
     .isLength({ min: 3 })
-    .withMessage('Minimum 3 characters required!')
+    .withMessage('Product name must be at least 3 characters!')
     .bail(),
 
   (req: Request, res: Response, next: NextFunction) => {
