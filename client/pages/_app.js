@@ -1,15 +1,14 @@
 import * as React from 'react'
-
+// MUI theme
 import MuiTheme from 'theme/MuiTheme'
 
 import PropTypes from 'prop-types'
 import Head from 'next/head'
-
+// emotion cashe
 import CssBaseline from '@mui/material/CssBaseline'
 import { CacheProvider } from '@emotion/react'
-
 import createEmotionCache from '../src/createEmotionCache'
-
+// RTl + i18n provider
 import RtlProvider from 'components/RTL/RtlProvider'
 import { appWithTranslation } from 'next-i18next'
 
@@ -26,7 +25,6 @@ function _App(props) {
       <MuiTheme>
         <RtlProvider>
           <div>
-            {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
             <CssBaseline />
             <Component {...pageProps} />
           </div>

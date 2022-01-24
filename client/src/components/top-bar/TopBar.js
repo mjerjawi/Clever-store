@@ -17,6 +17,7 @@ import Link from 'next/link'
 import CallOutlined from '@mui/icons-material/CallOutlined'
 import ExpandMore from '@mui/icons-material/ExpandMore'
 import MailOutline from '@mui/icons-material/MailOutline'
+import LanguageIcon from '@mui/icons-material/Language'
 
 const TopbarWrapper = styled('div')(({ theme }) => ({
   background: theme.palette.secondary.main,
@@ -59,7 +60,7 @@ const TopbarWrapper = styled('div')(({ theme }) => ({
     height: layoutConstant.topbarHeight,
   },
   '& .menuTitle': {
-    fontSize: 12,
+    fontSize: 14,
     marginLeft: '0.5rem',
     fontWeight: 600,
   },
@@ -81,10 +82,6 @@ const Topbar = () => {
   const setLocale = async (locale) => {
     await router.push(router.asPath, router.asPath, { locale: locale })
     router.reload()
-  }
-
-  const handleCurrencyClick = (curr) => () => {
-    setCurrency(curr)
   }
 
   const handleLanguageClick = (locale, lang) => () => {
@@ -128,19 +125,12 @@ const Topbar = () => {
         </FlexBox>
 
         <FlexBox className='topbarRight' alignItems='center'>
-          <NavLink className='link' href='/faq'>
-            Theme FAQ"s
-          </NavLink>
-          <NavLink className='link' href='/help'>
-            Need Help?
-          </NavLink>
-
+          <LanguageIcon fontSize='small' />
           <CleverMenu
             handler={
-              <TouchRipple className='handler marginRight'>
+              <TouchRipple className='handler'>
                 <Span className='menuTitle'>{language[router.locale]}</Span>
-
-                <ExpandMore fontSize='inherit' />
+                <ExpandMore fontSize='small' />
               </TouchRipple>
             }
           >

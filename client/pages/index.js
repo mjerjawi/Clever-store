@@ -1,24 +1,23 @@
-import * as React from 'react';
-import Container from '@mui/material/Container';
-import Typography from '@mui/material/Typography';
-import Box from '@mui/material/Box';
-import ProTip from '../src/ProTip';
-import Link from '../src/Link';
-import Copyright from '../src/Copyright';
+import AppLayout from 'components/layout/AppLayout'
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
+import HomeSection1 from 'components/sections/HomeSection1'
+import { useTranslation } from 'next-i18next'
 
-export default function Index() {
-  return (
-    <Container maxWidth="sm">
-      <Box sx={{ my: 4 }}>
-        <Typography variant="h4" component="h1" gutterBottom>
-          Next.js example
-        </Typography>
-        <Link href="/about" color="secondary">
-          Go to the about page
-        </Link>
-        <ProTip />
-        <Copyright />
-      </Box>
-    </Container>
-  );
+export async function getStaticProps({ locale }) {
+  return {
+    props: {
+      ...(await serverSideTranslations(locale, ['common', 'header'])),
+    },
+  }
 }
+
+const Layout = (props) => {
+  const { t } = useTranslation()
+  return (
+    <AppLayout>
+      <HomeSection1></HomeSection1>
+    </AppLayout>
+  )
+}
+
+export default Layout

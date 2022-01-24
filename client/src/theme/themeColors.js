@@ -1,3 +1,5 @@
+import { orange } from '@mui/material/colors'
+orange[100]
 export const grey = {
   900: '#2B3445',
   // Main Text
@@ -12,8 +14,8 @@ export const grey = {
   300: '#E3E9EF',
   200: '#F3F5F9',
   // Line Stroke
-  100: '#F6F9FC'
-};
+  100: '#F6F9FC',
+}
 export const primary = {
   100: '#FCE9EC',
   200: '#F8C7CF',
@@ -23,8 +25,9 @@ export const primary = {
   600: '#E63E58',
   700: '#E3364E',
   800: '#DF2E44',
-  900: '#D91F33'
-};
+  900: '#D91F33',
+}
+
 export const secondary = {
   100: '#e8e8ee',
   200: '#b9bacb',
@@ -36,8 +39,8 @@ export const secondary = {
   800: '#0e1138',
   900: '#0c0e30',
   main: '#0F3460',
-  dark: '#0c0e30'
-};
+  dark: '#0c0e30',
+}
 export const error = {
   100: '#FFEAEA',
   200: '#FFCBCB',
@@ -48,8 +51,8 @@ export const error = {
   700: '#FF4242',
   800: '#FF3939',
   900: '#FF2929',
-  main: '#E94560'
-};
+  main: '#E94560',
+}
 export const success = {
   100: '#E7F9ED',
   200: '#C2F1D1',
@@ -60,9 +63,9 @@ export const success = {
   700: '#27C454',
   800: '#20BE4A',
   900: '#0b7724',
-  main: 'rgb(51, 208, 103)'
-};
+  main: 'rgb(51, 208, 103)',
+}
 export const warning = {
   main: '#FFCD4E',
-  contrastText: '#FFFFFF'
-};
+  contrastText: '#FFFFFF',
+}

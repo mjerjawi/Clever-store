@@ -6,6 +6,7 @@ import createEmotionCache from '../src/createEmotionCache'
 
 export default class MyDocument extends Document {
   render() {
+    // HTML direction
     const { locale } = this.props.__NEXT_DATA__
     const dir = locale === 'ar' ? 'rtl' : 'ltr'
     return (

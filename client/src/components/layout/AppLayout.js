@@ -1,10 +1,12 @@
-// import Footer from 'components/footer/Footer';
-// import Header from 'components/header/Header';
-// import MobileNavigationBar from 'components/mobile-navigation/MobileNavigationBar';
-// import Sticky from 'components/sticky/Sticky';
+import Footer from 'components/footer/Footer'
+import Header from 'components/header/Header'
+import MobileNavigationBar from 'components/mobile-navigation/MobileNavigationBar'
+import Sticky from 'components/sticky/Sticky'
 import Topbar from 'components/top-bar/Topbar'
 import Head from 'next/head'
 import React, { Fragment, useCallback, useState } from 'react'
+
+// import Carousel from 'components/carousel/Carousel'
 
 const AppLayout = ({
   children,
@@ -24,16 +26,19 @@ const AppLayout = ({
       </Head>
 
       <Topbar />
-
-      {/* <Sticky fixedOn={0} onSticky={toggleIsFixed}>
+      <Sticky fixedOn={0} onSticky={toggleIsFixed}>
         <Header isFixed={isFixed} />
       </Sticky>
 
-      {navbar && <div className="section-after-sticky">{navbar}</div>}
-      {!navbar ? <div className="section-after-sticky">{children}</div> : children}
+      {navbar && <div className='section-after-sticky'>{navbar}</div>}
+      {!navbar ? (
+        <div className='section-after-sticky'>{children}</div>
+      ) : (
+        children
+      )}
 
       <MobileNavigationBar />
-      <Footer /> */}
+      <Footer />
     </Fragment>
   )
 }
