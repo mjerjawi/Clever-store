@@ -1,0 +1,11 @@
+table:
+  name: Product
+  schema: public
+array_relationships:
+- name: ProductArabics
+  using:
+    foreign_key_constraint_on:
+      column: productId
+      table:
+        name: ProductArabic
+        schema: public

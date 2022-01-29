@@ -1,0 +1,9 @@
+table:
+  name: authors
+  schema: public
+computed_fields:
+- definition:
+    function:
+      name: author_full_name
+      schema: public
+  name: full_name

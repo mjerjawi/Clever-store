@@ -1,3 +1,18 @@
 table:
   name: User
   schema: public
+array_relationships:
+- name: Accounts
+  using:
+    foreign_key_constraint_on:
+      column: userId
+      table:
+        name: Account
+        schema: public
+- name: Sessions
+  using:
+    foreign_key_constraint_on:
+      column: userId
+      table:
+        name: Session
+        schema: public

@@ -1,13 +1,18 @@
 table:
   name: products
   schema: public
-object_relationships:
-- name: category
+array_relationships:
+- name: ProductArabics
   using:
-    manual_configuration:
-      column_mapping:
-        category_id: id
-      insertion_order: null
-      remote_table:
-        name: categories
+    foreign_key_constraint_on:
+      column: productId
+      table:
+        name: products_arabic
         schema: public
+computed_fields:
+- definition:
+    function:
+      name: product_name_translated
+      schema: public
+    session_argument: hasura_session
+  name: namee
