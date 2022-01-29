@@ -1,0 +1,13 @@
+table:
+  name: products
+  schema: public
+object_relationships:
+- name: category
+  using:
+    manual_configuration:
+      column_mapping:
+        category_id: id
+      insertion_order: null
+      remote_table:
+        name: categories
+        schema: public

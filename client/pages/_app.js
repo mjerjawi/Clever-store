@@ -12,6 +12,9 @@ import createEmotionCache from '../src/createEmotionCache'
 import RtlProvider from 'components/RTL/RtlProvider'
 import { appWithTranslation } from 'next-i18next'
 
+// Next-Auth
+import { SessionProvider } from 'next-auth/react'
+
 const clientSideEmotionCache = createEmotionCache()
 
 function _App(props) {
@@ -22,14 +25,16 @@ function _App(props) {
       <Head>
         <meta name='viewport' content='initial-scale=1, width=device-width' />
       </Head>
-      <MuiTheme>
-        <RtlProvider>
-          <div>
-            <CssBaseline />
-            <Component {...pageProps} />
-          </div>
-        </RtlProvider>
-      </MuiTheme>
+      <SessionProvider>
+        <MuiTheme>
+          <RtlProvider>
+            <div>
+              <CssBaseline />
+              <Component {...pageProps} />
+            </div>
+          </RtlProvider>
+        </MuiTheme>
+      </SessionProvider>
     </CacheProvider>
   )
 }

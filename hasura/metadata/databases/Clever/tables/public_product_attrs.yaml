@@ -1,0 +1,22 @@
+table:
+  name: product_attrs
+  schema: public
+array_relationships:
+- name: attr
+  using:
+    manual_configuration:
+      column_mapping:
+        attr_id: id
+      insertion_order: null
+      remote_table:
+        name: attrs
+        schema: public
+- name: product_attrs
+  using:
+    manual_configuration:
+      column_mapping:
+        product_id: id
+      insertion_order: null
+      remote_table:
+        name: products
+        schema: public
