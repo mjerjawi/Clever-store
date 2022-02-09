@@ -50,7 +50,7 @@ const bazarTheme = createTheme({
     divider: grey[200],
     grey: { ...grey },
     background: {
-      default: grey[100],
+      default: '#fff',
     },
   },
   typography: {

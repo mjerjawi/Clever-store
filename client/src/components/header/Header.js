@@ -4,9 +4,6 @@ import CategoryMenu from 'components/category-menu/CategoryMenu'
 import FlexBox from 'components/FlexBox'
 import Category from 'components/icons/Category'
 import ShoppingBagOutlined from 'components/icons/ShoppingBagOutlined'
-// import MiniCart from 'components/mini-cart/MiniCart'
-// import Login from 'components/sessions/Login'
-// import { useAppContext } from 'contexts/app/AppContext'
 import KeyboardArrowDown from '@mui/icons-material/KeyboardArrowDown'
 import PersonOutline from '@mui/icons-material/PersonOutline'
 import {
@@ -48,8 +45,6 @@ const Header = ({ isFixed, className }) => {
 
   const toggleDialog = () => setDialogOpen(!dialogOpen)
 
-  //   const { state } = useAppContext()
-  //   const { cartList } = state.cart
   const cartHandle = (
     <Box
       component={IconButton}
@@ -135,13 +130,13 @@ const Header = ({ isFixed, className }) => {
           fullWidth={isMobile}
           scroll='body'
           onClose={toggleDialog}
-        >
-          {/* <Login /> */}
-        </Dialog>
+        ></Dialog>
 
-        <Drawer open={sidenavOpen} anchor='right' onClose={toggleSidenav}>
-          {/* <MiniCart /> */}
-        </Drawer>
+        <Drawer
+          open={sidenavOpen}
+          anchor='right'
+          onClose={toggleSidenav}
+        ></Drawer>
       </Container>
     </HeaderWrapper>
   )

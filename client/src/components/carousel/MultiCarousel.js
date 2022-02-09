@@ -12,19 +12,36 @@ import 'swiper/css/pagination'
 const StyledBox = styled(Box)(({ theme }) => ({
   width: '100%',
   position: 'relative',
-  height: 360,
+  height: 129,
   [theme.breakpoints.down('sm')]: {
-    height: 180,
+    height: 129,
   },
 }))
 
-function Carousel({ slidesPerView, spaceBetween, images, autoplay, height }) {
+function MultiCarousel({ slidesPerView, spaceBetween, images, autoplay }) {
   return (
     <Swiper
       navigation={true}
-      slidesPerView={slidesPerView}
       spaceBetween={spaceBetween}
       autoplay={autoplay}
+      breakpoints={{
+        1: {
+          slidesPerView: 2,
+          spaceBetween: 8,
+        },
+        600: {
+          slidesPerView: 2,
+          spaceBetween: 8,
+        },
+        960: {
+          slidesPerView: 3,
+          spaceBetween: 16,
+        },
+        1280: {
+          slidesPerView: 4,
+          spaceBetween: 24,
+        },
+      }}
     >
       {images.map((img) => {
         return (
@@ -45,4 +62,4 @@ function Carousel({ slidesPerView, spaceBetween, images, autoplay, height }) {
   )
 }
 
-export default Carousel
+export default MultiCarousel

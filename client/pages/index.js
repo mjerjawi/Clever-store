@@ -1,6 +1,8 @@
-import AppLayout from 'components/layout/AppLayout'
+import NavbarLayout from 'components/layout/NavbarLayout'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import HomeSection1 from 'components/sections/HomeSection1'
+import HomeSection2 from 'components/sections/HomeSection2'
+import HomeSection3 from 'components/sections/HomeSection3'
 import { useTranslation } from 'next-i18next'
 
 export async function getStaticProps({ locale }) {
@@ -14,9 +16,13 @@ export async function getStaticProps({ locale }) {
 const Layout = (props) => {
   const { t } = useTranslation()
   return (
-    <AppLayout>
-      <HomeSection1></HomeSection1>
-    </AppLayout>
+    <>
+      <NavbarLayout>
+        <HomeSection1></HomeSection1>
+        <HomeSection2></HomeSection2>
+        <HomeSection3></HomeSection3>
+      </NavbarLayout>
+    </>
   )
 }
 

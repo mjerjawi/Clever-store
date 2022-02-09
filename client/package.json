@@ -26,6 +26,7 @@
     "prop-types": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "react-simple-image-viewer": "^1.1.1",
     "stylis": "^4.0.13",
     "stylis-plugin-rtl": "^2.1.1",
     "swiper": "^7.4.1"

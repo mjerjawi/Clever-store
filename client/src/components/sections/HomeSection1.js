@@ -1,18 +1,27 @@
 import Carousel from 'components/carousel/Carousel'
-
-import Navbar from 'components/navbar/Navbar'
-import { Box, Container } from '@mui/material'
+import { Box, styled } from '@mui/material'
 import { Fragment } from 'react'
+import { images } from '../../data/homeCarousel'
+
+const StyledBox = styled(Box)(({ theme }) => ({
+  marginBottom: theme.spacing(6),
+}))
 
 const HomeSection1 = () => {
   return (
     <Fragment>
-      <Navbar />
-      <Box bgcolor='white' mb={8} pt={1}>
-        <Container>
-          <Carousel slidesPerView={1} spaceBetween={0} />
-        </Container>
-      </Box>
+      <StyledBox>
+        <Carousel
+          slidesPerView={1}
+          spaceBetween={0}
+          images={images}
+          autoplay={{
+            delay: 5000,
+            disableOnInteraction: false,
+          }}
+          height='360'
+        />
+      </StyledBox>
     </Fragment>
   )
 }

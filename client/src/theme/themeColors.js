@@ -38,6 +38,7 @@ export const secondary = {
   700: '#101340',
   800: '#0e1138',
   900: '#0c0e30',
+  light: '#b9bacb',
   main: '#0F3460',
   dark: '#0c0e30',
 }
