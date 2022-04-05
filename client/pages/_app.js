@@ -1,8 +1,9 @@
 import * as React from 'react'
+
 // MUI theme
 import MuiTheme from 'theme/MuiTheme'
-
 import PropTypes from 'prop-types'
+
 import Head from 'next/head'
 // emotion cashe
 import CssBaseline from '@mui/material/CssBaseline'
@@ -12,8 +13,10 @@ import createEmotionCache from '../src/createEmotionCache'
 import RtlProvider from 'components/RTL/RtlProvider'
 import { appWithTranslation } from 'next-i18next'
 
-// Next-Auth
-import { SessionProvider } from 'next-auth/react'
+// Nhost-Auth
+import { NhostNextProvider } from '@nhost/nextjs'
+import { NhostApolloProvider } from '@nhost/react-apollo'
+import { nhost } from '../helpers'
 
 const clientSideEmotionCache = createEmotionCache()
 
@@ -25,16 +28,18 @@ function _App(props) {
       <Head>
         <meta name='viewport' content='initial-scale=1, width=device-width' />
       </Head>
-      <SessionProvider>
-        <MuiTheme>
-          <RtlProvider>
-            <div>
-              <CssBaseline />
-              <Component {...pageProps} />
-            </div>
-          </RtlProvider>
-        </MuiTheme>
-      </SessionProvider>
+      <NhostNextProvider nhost={nhost} initial={pageProps.nhostSession}>
+        <NhostApolloProvider nhost={nhost}>
+          <MuiTheme>
+            <RtlProvider>
+              <div>
+                <CssBaseline />
+                <Component {...pageProps} />
+              </div>
+            </RtlProvider>
+          </MuiTheme>
+        </NhostApolloProvider>
+      </NhostNextProvider>
     </CacheProvider>
   )
 }

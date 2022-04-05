@@ -1,0 +1,3233 @@
+{
+  "result": {
+    "data": {
+      "GA": 3,
+      "uin": 124953,
+      "compcnt": 0,
+      "world": "1",
+      "stockValid": 0,
+      "comp": 0,
+      "pricePerUnit": null,
+      "parent": 53,
+      "addToCart": 1,
+      "ship": "1",
+      "uinsql": "118160",
+      "price": 3049,
+      "eilatPrice": 2605,
+      "name": "Apple iPhone 12 128GB Black - 1 Year Warranty by The Official Distributor - Without Charger And Without Headphones",
+      "smalldesc": "האייפון 12 החזק והעוצמתי מבית Apple, בעל מסך 6.1 אינטש Super Retina XDR OLED, עם חיישן זיהוי פנים, מעבד ראשי A14 Bionic, שתי מצלמות אחוריות 12 מגה פיקסל, מצלמת סלפי 12 מגה פיקסל, בעל תקן IP68 עמיד בפני אבק ומים עם אפשרות טעינה אלחוטית ותמיכה ברשת הדור החמישי 5G",
+      "brandName": "Apple",
+      "brandTag": "245",
+      "brandImg": "https://ksp.co.il/images/brands/245.png",
+      "minQnt": "1",
+      "maxQnt": "5",
+      "dc": 0,
+      "maxPaymentsWithoutVat": 36,
+      "note": ""
+    },
+    "variants": {
+      "color": [
+        {
+          "uin": "124953",
+          "name": "Black",
+          "color": "Black",
+          "img": "https://ksp.co.il/shop/items/100/124953.jpg",
+          "choose": 1
+        },
+        {
+          "uin": "124967",
+          "name": "Blue",
+          "color": "Blue",
+          "img": "https://ksp.co.il/shop/items/100/124967.jpg",
+          "choose": 0
+        },
+        {
+          "uin": "124972",
+          "name": "White",
+          "color": "White",
+          "img": "https://ksp.co.il/shop/items/100/124972.jpg",
+          "choose": 0
+        },
+        {
+          "uin": "124978",
+          "name": "White",
+          "color": "White",
+          "img": "https://ksp.co.il/shop/items/100/124978.jpg",
+          "choose": 0
+        },
+        {
+          "uin": "124979",
+          "name": "White",
+          "color": "White",
+          "img": "https://ksp.co.il/shop/items/100/124979.jpg",
+          "choose": 0
+        },
+        {
+          "uin": "124980",
+          "name": "Black",
+          "color": "Black",
+          "img": "https://ksp.co.il/shop/items/100/124980.jpg",
+          "choose": 0
+        },
+        {
+          "uin": "124982",
+          "name": "Blue",
+          "color": "Blue",
+          "img": "https://ksp.co.il/shop/items/100/124982.jpg",
+          "choose": 0
+        },
+        {
+          "uin": "147398",
+          "name": "Purple",
+          "color": "Purple",
+          "img": "https://ksp.co.il/shop/items/100/147398.jpg",
+          "choose": 0
+        }
+      ]
+    },
+    "products_options": {
+      "render": {
+        "tags": {
+          "capacity": {
+            "name": "Capacity",
+            "select_anyway": "1",
+            "flag": "1",
+            "items": [
+              {
+                "id": "362",
+                "name": "64GB"
+              },
+              {
+                "id": "378",
+                "name": "128GB"
+              },
+              {
+                "id": "580",
+                "name": "256GB"
+              }
+            ]
+          },
+          "color": {
+            "name": "Color",
+            "select_anyway": "1",
+            "flag": "1",
+            "items": [
+              {
+                "id": "382",
+                "img": "//img.ksp.co.il/item/124980/m_1.jpg",
+                "name": "Black"
+              },
+              {
+                "id": "385",
+                "img": "//img.ksp.co.il/item/124982/m_1.jpg",
+                "name": "Blue"
+              },
+              {
+                "id": "461",
+                "img": "//img.ksp.co.il/item/147398/m_6.jpg",
+                "name": "Purple"
+              },
+              {
+                "id": "383",
+                "img": "//img.ksp.co.il/item/124979/m_1.jpg",
+                "name": "White"
+              }
+            ]
+          }
+        },
+        "chooses": {
+          "capacity": {
+            "id": "378"
+          },
+          "color": {
+            "id": "382"
+          }
+        }
+      },
+      "variations": [
+        {
+          "uin_item": "124953",
+          "capacity": "378",
+          "color": "382"
+        },
+        {
+          "uin_item": "124967",
+          "capacity": "378",
+          "color": "385"
+        },
+        {
+          "uin_item": "124972",
+          "capacity": "378",
+          "color": "383"
+        },
+        {
+          "uin_item": "124978",
+          "capacity": "362",
+          "color": "383"
+        },
+        {
+          "uin_item": "124979",
+          "capacity": "580",
+          "color": "383"
+        },
+        {
+          "uin_item": "124980",
+          "capacity": "580",
+          "color": "382"
+        },
+        {
+          "uin_item": "124982",
+          "capacity": "580",
+          "color": "385"
+        },
+        {
+          "uin_item": "147398",
+          "capacity": "378",
+          "color": "461"
+        }
+      ]
+    },
+    "tags": [
+      {
+        "up_uin": "215",
+        "up_name": "Catalog",
+        "uin": "31635",
+        "tag_name": "Computers & Cellular",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "12124",
+        "up_name": "Inch",
+        "uin": "5360",
+        "tag_name": "6.1''",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "22143",
+        "up_name": "Connectivity",
+        "uin": "872,465,577,16425",
+        "tag_name": "WiFi,3G,4G LTE,5G",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "431",
+        "up_name": "Resolution",
+        "uin": "19216",
+        "tag_name": "2532x1170",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "446",
+        "up_name": "Operating System",
+        "uin": "449",
+        "tag_name": "iOS",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "454",
+        "up_name": "Language",
+        "uin": "455,456,458",
+        "tag_name": "English,Hebrew,Russian",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "12066",
+        "up_name": "Capacity",
+        "uin": "378",
+        "tag_name": "128GB",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "29",
+        "up_name": "Memory Size",
+        "uin": "99",
+        "tag_name": "4GB",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "28",
+        "up_name": "Connection Ports",
+        "uin": "1547",
+        "tag_name": "Apple Lightning",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "5701",
+        "up_name": "Battery",
+        "uin": "19217",
+        "tag_name": "2815 mAh",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "29541",
+        "up_name": "Sealing Level",
+        "uin": "10547",
+        "tag_name": "Sealing Level IP68",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "25",
+        "up_name": "Features",
+        "uin": "1652,596,607,873,4867,1728",
+        "tag_name": "Nano SIM,With Touch Screen,Bluetooth,GPS,Face ID,NFC",
+        "uin_item": "124953"
+      },
+      {
+        "up_uin": "9334",
+        "up_name": "Importer",
+        "uin": "9335",
+        "tag_name": "Official Importer",
+        "uin_item": "124953"
+      }
+    ],
+    "payments": {
+      "max": 36,
+      "perPayment": 85
+    },
+    "share": {
+      "1": {
+        "name": "SMS",
+        "icon": "https://ksp.co.il/m/img/icons/message.png",
+        "url": "sms:?&body=Apple iPhone 12 128GB Black - 1 Year Warranty by The Official Distributor - Without Charger And Without Headphones Now at a special price ! https://ksp.co.il/web/item/124953/apple-iphone-12-128gb-black-1-year-warranty-by-the-official-distributor-without-charger-and-without-headphones",
+        "target": ""
+      },
+      "2": {
+        "name": "Whatsapp",
+        "icon": "https://ksp.co.il/m/img/icons/whatsapp.png",
+        "url": "whatsapp://send?text=Apple%20iPhone%2012%20128GB%20Black%20-%201%20Year%20Warranty%20by%20The%20Official%20Distributor%20-%20Without%20Charger%20And%20Without%20Headphones%20Now%20at%20a%20special%20price%20%21%20https%3A%2F%2Fksp.co.il%2Fweb%2Fitem%2F124953%2Fapple-iphone-12-128gb-black-1-year-warranty-by-the-official-distributor-without-charger-and-without-headphones",
+        "target": ""
+      },
+      "3": {
+        "name": "Facebook",
+        "icon": "https://ksp.co.il/m/img/icons/facebook.png",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://ksp.co.il/web/item/124953/apple-iphone-12-128gb-black-1-year-warranty-by-the-official-distributor-without-charger-and-without-headphones&amp;facebook=OK",
+        "target": "_system"
+      },
+      "4": {
+        "name": "Mail",
+        "icon": "https://ksp.co.il/m/img/icons/gmail.png",
+        "url": "mailto:?subject=Apple iPhone 12 128GB Black - 1 Year Warranty by The Official Distributor - Without Charger And Without Headphones&body=Apple iPhone 12 128GB Black - 1 Year Warranty by The Official Distributor - Without Charger And Without Headphones \n\r For details and purchase on the website KSP.co.il \n\r https://ksp.co.il/web/item/124953",
+        "target": ""
+      },
+      "5": {
+        "name": "Telegram",
+        "icon": "https://ksp.co.il/m/img/icons/telegram.png",
+        "url": "https://telegram.me/share/url?url=https://ksp.co.il/web/item/124953/apple-iphone-12-128gb-black-1-year-warranty-by-the-official-distributor-without-charger-and-without-headphones&text=Apple iPhone 12 128GB Black - 1 Year Warranty by The Official Distributor - Without Charger And Without Headphones Now at a special price !",
+        "target": "_system"
+      },
+      "6": {
+        "name": "Print",
+        "icon": "https://ksp.co.il/m/img/icons/printer.png",
+        "url": "https://ksp.co.il/?print=124953",
+        "target": "_system"
+      }
+    },
+    "images": {
+      "1": "https://img.ksp.co.il/item/124953/b_6.jpg?v=3",
+      "2": "https://img.ksp.co.il/item/124953/b_1.jpg?v=3",
+      "3": "https://img.ksp.co.il/item/124953/b_2.jpg?v=3",
+      "4": "https://img.ksp.co.il/item/124953/b_3.jpg?v=3",
+      "5": "https://img.ksp.co.il/item/124953/b_4.jpg?v=3",
+      "6": "https://img.ksp.co.il/item/124953/b_5.jpg?v=3",
+      "7": "https://img.ksp.co.il/item/124953/b_7.jpg?v=3"
+    },
+    "specification": {
+      "items": {
+        "1": {
+          "head": "Warranty",
+          "body": "<div class=\"alignright\">אחריות יבואן רשמי לשנה אחת, בהתאם לתעודת האחריות המגיעה באריזת המכשיר, על ידי מעבדות iCon Group בטלפון: 03-3030405 או על ידי מעבדות DCS בטלפון: 1700-70-18-70<div>"
+        },
+        "2": {
+          "head": "Model",
+          "body": "MGJA3HB/A"
+        },
+        "3": {
+          "head": "Note",
+          "body": "<red><b>The product comes without a charger and without headphones in the package!</b></red><br>To purchase headphones with a LIGHTNING connection, please <a target=_system href=\"https://ksp.co.il/?uin=43085\" target=\"_blank\"> click here </a><br>To purchase a headphone adapter from LIGHTNING to 3.5 mm, please <a target=_system href=\"https://ksp.co.il/?uin=43087target=_blank\"> click here </a><br><b> To purchase chargers with a USB connection </b><br>Apple 5W USB Wall Charger <a target=_system href=\"https://ksp.co.il/?uin=43089\" target=\"_blank\"> Click here </a><br>Apple 12W USB Wall Charger <a target=_system href=\"https://ksp.co.il/?uin=43091\" target=\"_blank\"> Click here </a><br><b> To purchase a sync and charge cable from a USB connection to a LIGHTNING connection </b><br>Lightning cable to USB connection 0.5 meters long <a target=_system href=\"https://ksp.co.il/?uin=66440\" target=\"_blank\"> Click here </a><br>Lightning cable to USB connection 1 meter long<a target=_system href=\"https://ksp.co.il/?uin=43088\" target=\"_blank\"> Click here </a><br>Lightning cable to USB connection 2 meters long<a target=_system href=\"https://ksp.co.il/?uin=43699\" target=\"_blank\"> Click here </a><br><b> To purchase chargers with a USB Type-C connection </b><br>Apple 18W USB Type-C Wall Charger <a target=_system href=\"https://ksp.co.il/?uin=66432\" target=\"_blank\"> Click here </a><br>Apple 20W USB Type-C Wall Charger <a target=_system href=\"https://ksp.co.il/?uin=121223\" target=\"_blank\"> Click here </a><br>Apple 30W USB Type-C Wall Charger <a target=_system href=\"https://ksp.co.il/?uin=66438\" target=\"_blank\"> Click here </a><br><b> To purchase a sync and charge cable from a USB Type-C connection to a LIGHTNING connection </b><br>Lightning cable to USB Type-C connection 1 meter long<a target=_system href=\"https://ksp.co.il/?uin=66444\" target=\"_blank\"> Click here </a><br>Lightning cable to USB Type-C connection 2 meters long<a target=_system href=\"https://ksp.co.il/?uin=48946\" target=\"_blank\"> Click here </a>"
+        },
+        "4": {
+          "head": "Overview",
+          "body": "<b>Blast past fast.</b><br>5G speed. A14 Bionic, the fastest chip in a smartphone.<br>An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.<br><img src=\"https://ksp.co.il/site/siteUpload/803316314-1.jpg\" endimg=\"\"><br><b>iPhone 12</b><br><img src=\"https://ksp.co.il/site/siteUpload/267766621-2.jpg\" endimg=\"\"><br><b>Ceramic Shield. Clearly tougher than any smartphone glass.</b><br><img src=\"https://ksp.co.il/site/siteUpload/267766621-3.jpg\" endimg=\"\"><br><b>H2OK</b><br>Even better spill and splash resistance<br><img src=\"https://ksp.co.il/site/siteUpload/267766621-4.jpg\" endimg=\"\"><br><b>5G speed</b><br>OMGGGGG.<br>5G on iPhone is superfast. So you can download movies on the fly. Stream higher-quality video. Or FaceTime in HD over cellular. With lots less lag. And you can do it in more places, because iPhone 12 has the broadest 5G coverage worldwide.<br><img src=\"https://ksp.co.il/site/siteUpload/267766621-5.jpg\" endimg=\"\"><br><b>A14 Bionic is the fastest chip in a smartphone</b><br>And it pushes what’s possible. Like crunching trillions of operations on the Neural Engine. Or shooting in Dolby Vision — even pro movie cameras can’t do that. It’s superefficient for great battery life. And it’s ahead of its time, prepared to power pretty much anything that comes next.<br><img src=\"https://ksp.co.il/site/siteUpload/321321590-6.jpg\" endimg=\"\"><br><b>Super Retina XDR display</b><br>Behold OLED.<br><img src=\"https://ksp.co.il/site/siteUpload/178515341-7.jpg\" endimg=\"\"><br><b>Welcome to the dark side.</b><br>Both the Wide and Ultra Wide cameras now have Night mode — and it’s better than ever at capturing incredible low-light shots. The new Wide camera brings in 27 percent more light. So whether you take photos by day or by moonlight, you’ll get a level of detail and color that wasn’t possible before.<br><img src=\"https://ksp.co.il/site/siteUpload/178515341-8.jpg\" endimg=\"\"><br><b>Night mode</b><br>senses when light is low and kicks in automatically, maintaining clarity while capturing beautiful vibrant color. All you have to do is start snapping.<br><img src=\"https://ksp.co.il/site/siteUpload/178515341-9.jpg\" endimg=\"\"><br><b>Deep Fusion</b><br>in mid to low light, analyzes multiple exposures to maximize detail. Check out the texture in the wood, fabric, and crystal. And the Ultra Wide gets you a heroic perspective.<br><img src=\"https://ksp.co.il/site/siteUpload/178515341-10.jpg\" endimg=\"\"><br><b>Smart HDR 3</b><br>balances the elements in a shot, bringing out detail in the subject and trees while retaining the rich color of the sky — even at high noon.<br><img src=\"https://ksp.co.il/site/siteUpload/178515341-11.jpg\" endimg=\"\"><br><b>Portrait mode</b><br>is even better at artfully blurring the background to put all the focus on your subject. Lovely, isn’t it?<br><img src=\"https://ksp.co.il/site/siteUpload/178515341-12.jpg\" endimg=\"\"><br><b>Low lights. Camera. Action.</b><br>How do you improve on the highest-quality video in a smartphone? Make it even better in low light — a full 27 percent better. That means no hour is off limits for more beautifully detailed video. Then there’s Night mode Time-lapse. Just prop up your iPhone and let the light trails begin.<br><img src=\"https://ksp.co.il/site/siteUpload/178515341-13.jpg\" endimg=\"\"><br><b>And boom. You own a film studio.</b><br>Now you can record 4K HDR video with Dolby Vision. Edit in Photos or iMovie. Then zap it to your TV using AirPlay to see all that color and detail. It’s a start-to-finish cinematic experience — found only on iPhone. Which comes in handy when your dog does something adorable.<br><img src=\"https://ksp.co.il/site/siteUpload/178515341-14.jpg\" endimg=\"\"><br><b>Night mode selfies</b><br>You look amazing in the dark.<br>Nighttime is the right time for a selfie. Because Night mode and a slew of other great features are now on the front camera. Like Deep Fusion, Smart HDR 3, Dolby Vision recording, and more. You lucky duck face.<br><img src=\"https://ksp.co.il/site/siteUpload/178515341-15.jpg\" endimg=\"\"><br><b>Turbo chargeable.</b><br>Magnets align themselves perfectly every time for faster wireless charging.<br><img src=\"https://ksp.co.il/site/siteUpload/178515341-17.jpg\" endimg=\"\">"
+        },
+        "5": {
+          "head": "Languages Support",
+          "body": "Hebrew, English, Russian"
+        },
+        "6": {
+          "head": "SIM",
+          "body": "Nano-Sim"
+        },
+        "7": {
+          "head": "General",
+          "body": "2G Network: GSM 850 / 900 / 1800 / 1900<br>3G Network: HSDPA 850 / 900 / 1900 / 2100<br>4G Network: LTE 700 / 800 / 850 / 900 / 1800 / 1900 / 2100 / 2300 / 2500 / 2600<br>5G Network: 5G"
+        },
+        "8": {
+          "head": "Body",
+          "body": "Dimensions: 146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in)<br>Weight: 164 g (5.78 oz)<br>- IP68 certified - dust and water resistant<br>- Water resistant up to 6 meter and 30 minutes<br>- Apple Pay (Visa, MasterCard, AMEX certified)"
+        },
+        "9": {
+          "head": "Display",
+          "body": "Type: Super Retina XDR OLED, HDR10, 625 nits (typ), 1200 nits (peak)<br>Size: 6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio)<br>Resolution: 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)<br>Protection: Scratch-resistant ceramic glass, oleophobic coating<br>- Dolby Vision<br>- Wide color gamut<br>- True-tone"
+        },
+        "10": {
+          "head": "Sound",
+          "body": "Loudspeaker: Yes, with stereo speakers<br>3.5mm jack: No"
+        },
+        "11": {
+          "head": "Memory",
+          "body": "Card slot: No<br>Internal: 128GB, 4GB RAM"
+        },
+        "12": {
+          "head": "Data",
+          "body": "WLAN: Wi-Fi 802.11 a/b/g/n/ac/ax, dual-band, hotspot<br>Bluetooth:  Yes, v5.0, A2DP, LE<br>NFC: Yes<br>USB:  Yes, Lightning, USB 2.0"
+        },
+        "13": {
+          "head": "Camera",
+          "body": "<b>MAIN CAMERA</b><br>Dual: 12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS<br>12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\"<br>Features: Dual-LED dual-tone flash, HDR (photo/panorama)<br>Video: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 30fps), stereo sound rec.<br><b>SELFIE CAMERA</b><br>Dual: 12 MP, f/2.2, 23mm (wide), 1/3.6\"<br>SL 3D, (depth/biometrics sensor)<br>Features: HDR<br>Video: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+        },
+        "14": {
+          "head": "Features",
+          "body": "OS: iOS<br>Chipset: Apple A14 Bionic (5 nm)<br>CPU: Hexa-core - 2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm<br>GPU: Apple GPU (4-core graphics)<br>Sensors: Face ID, accelerometer, gyro, proximity, compass, barometer<br>GPS: Yes, with A-GPS support and GLONASS, GALILEO, QZSS<br>- Fast battery charging 20W: 50% in 30 min<br>- USB Power Delivery 2.0<br>- Qi magnetic fast wireless charging<br>- Siri natural language commands and dictation"
+        },
+        "15": {
+          "head": "Battery",
+          "body": "Non-removable Li-Ion 2815 mAh battery"
+        },
+        "16": {
+          "head": "In The Box",
+          "body": "iPhone 12<br>USB-C to Lightning Cable<br><b><red>The product comes without a charger and without headphones in the package!</red></b>"
+        },
+        "17": {
+          "head": "YouTube video",
+          "body": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/65JrtwtTOdc\" frameborder=\"0\" allow=\"encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        "18": {
+          "head": "Information from the manufacturer",
+          "body": "<div class='alignright'><a href='https://www.apple.com/iphone-12/' target='_system' rel='_nofollow'>Link For more information from the manufacturer's website click here</a></div>"
+        }
+      },
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/embed/65JrtwtTOdc"
+        },
+        {
+          "type": "manufacturer",
+          "url": "https://www.apple.com/iphone-12/"
+        }
+      ]
+    },
+    "specAlign": "right",
+    "topNav": [
+      {
+        "name": "Computers & Cellular",
+        "url": "world/1"
+      },
+      {
+        "name": "Mobile Phones",
+        "url": "cat/573"
+      },
+      {
+        "name": "Computers & Cellular",
+        "url": "cat/31635"
+      }
+    ],
+    "p": 36,
+    "stock": {
+      "1": {
+        "name": "Afula",
+        "qnt": 1
+      },
+      "2": {
+        "name": "Ashdod",
+        "qnt": 1
+      },
+      "3": {
+        "name": "Ashdod City",
+        "qnt": 1
+      },
+      "4": {
+        "name": "Ashkelon",
+        "qnt": 1
+      },
+      "5": {
+        "name": "Be'er Sheva",
+        "qnt": 1
+      },
+      "6": {
+        "name": "Beersheva East",
+        "qnt": 1
+      },
+      "7": {
+        "name": "Beitshemesh",
+        "qnt": 1
+      },
+      "8": {
+        "name": "Bilu",
+        "qnt": 1
+      },
+      "9": {
+        "name": "Eilat Hatayelet",
+        "qnt": 2
+      },
+      "10": {
+        "name": "Eilat Laguna",
+        "qnt": 0
+      },
+      "11": {
+        "name": "Eilat Tarshish",
+        "qnt": 4
+      },
+      "12": {
+        "name": "Eilat Tourism Center",
+        "qnt": 5
+      },
+      "13": {
+        "name": "Hadera",
+        "qnt": 1
+      },
+      "14": {
+        "name": "Haifa Matam",
+        "qnt": 2
+      },
+      "15": {
+        "name": "Haifa Nesher",
+        "qnt": 1
+      },
+      "16": {
+        "name": "Haifa Romema",
+        "qnt": 1
+      },
+      "17": {
+        "name": "Haifa Stella Maris",
+        "qnt": 1
+      },
+      "18": {
+        "name": "Herzliya",
+        "qnt": 1
+      },
+      "19": {
+        "name": "Herzliya Center",
+        "qnt": 1
+      },
+      "20": {
+        "name": "Holon",
+        "qnt": 1
+      },
+      "21": {
+        "name": "Jer. Har Hotzvim",
+        "qnt": 1
+      },
+      "22": {
+        "name": "Jer. Talpiot",
+        "qnt": 0
+      },
+      "23": {
+        "name": "Jerusalem Center",
+        "qnt": 2
+      },
+      "24": {
+        "name": "K. Atta",
+        "qnt": 2
+      },
+      "25": {
+        "name": "Karmiel",
+        "qnt": 1
+      },
+      "26": {
+        "name": "Kfar Saba",
+        "qnt": 1
+      },
+      "27": {
+        "name": "Kfar Saba Green",
+        "qnt": 2
+      },
+      "28": {
+        "name": "Kiryat Gat",
+        "qnt": 1
+      },
+      "29": {
+        "name": "Kiryat Ono",
+        "qnt": 1
+      },
+      "30": {
+        "name": "Kiryat-Haim",
+        "qnt": 3
+      },
+      "31": {
+        "name": "Kiryon",
+        "qnt": 0
+      },
+      "32": {
+        "name": "Modiin",
+        "qnt": 2
+      },
+      "33": {
+        "name": "Naharia",
+        "qnt": 1
+      },
+      "34": {
+        "name": "Nazareth",
+        "qnt": 1
+      },
+      "35": {
+        "name": "Netania K.Sharon",
+        "qnt": 0
+      },
+      "36": {
+        "name": "Netanya",
+        "qnt": 2
+      },
+      "37": {
+        "name": "Netanya Center",
+        "qnt": 1
+      },
+      "38": {
+        "name": "Netivot",
+        "qnt": 1
+      },
+      "39": {
+        "name": "Petah Tikva Dereh Rabin",
+        "qnt": 1
+      },
+      "40": {
+        "name": "Petakh Tikva",
+        "qnt": 1
+      },
+      "41": {
+        "name": "Ramat Aviv",
+        "qnt": 2
+      },
+      "42": {
+        "name": "Ramat Gan",
+        "qnt": 1
+      },
+      "43": {
+        "name": "Ramat HaSharon",
+        "qnt": 1
+      },
+      "44": {
+        "name": "Ramat Hayal",
+        "qnt": 1
+      },
+      "45": {
+        "name": "Ramle",
+        "qnt": 1
+      },
+      "46": {
+        "name": "Ranana",
+        "qnt": 1
+      },
+      "47": {
+        "name": "Rehovot",
+        "qnt": 1
+      },
+      "48": {
+        "name": "Rishon Center",
+        "qnt": 1
+      },
+      "49": {
+        "name": "Rishon Le'zion",
+        "qnt": 2
+      },
+      "50": {
+        "name": "Rosh Haayin",
+        "qnt": 1
+      },
+      "51": {
+        "name": "Shipment",
+        "qnt": 177
+      },
+      "52": {
+        "name": "TLV Dizingof",
+        "qnt": 0
+      },
+      "53": {
+        "name": "TLV Hashmonaim",
+        "qnt": 1
+      },
+      "54": {
+        "name": "Tel Aviv's",
+        "qnt": 1
+      },
+      "55": {
+        "name": "Tel Baruch",
+        "qnt": 1
+      },
+      "56": {
+        "name": "Tverya",
+        "qnt": 0
+      },
+      "57": {
+        "name": "Yavne",
+        "qnt": 1
+      }
+    },
+    "flags": {
+      "1": {
+        "type": "FreeShipping",
+        "name": "Free delivery to the customer's home"
+      },
+      "2": {
+        "type": "Payment",
+        "name": "Up to 36 interest-free payments"
+      }
+    },
+    "benefitBox": {
+      "1": {
+        "type": "Warranty",
+        "name": "Warranty 1 Year"
+      },
+      "2": {
+        "type": "Official",
+        "name": "Official importer"
+      }
+    },
+    "validStock": [
+      "Afula",
+      "Ashdod",
+      "Ashdod City",
+      "Ashkelon",
+      "Be'er Sheva",
+      "Beersheva East",
+      "Beitshemesh",
+      "Bilu",
+      "Eilat Hatayelet",
+      "Eilat Tarshish",
+      "Eilat Tourism Center",
+      "Hadera",
+      "Haifa Matam",
+      "Haifa Nesher",
+      "Haifa Romema",
+      "Haifa Stella Maris",
+      "Herzliya",
+      "Herzliya Center",
+      "Holon",
+      "Jer. Har Hotzvim",
+      "Jerusalem Center",
+      "K. Atta",
+      "Karmiel",
+      "Kfar Saba",
+      "Kfar Saba Green",
+      "Kiryat Gat",
+      "Kiryat Ono",
+      "Kiryat-Haim",
+      "Modiin",
+      "Naharia",
+      "Nazareth",
+      "Netanya",
+      "Netanya Center",
+      "Netivot",
+      "Petah Tikva Dereh Rabin",
+      "Petakh Tikva",
+      "Ramat Aviv",
+      "Ramat Gan",
+      "Ramat HaSharon",
+      "Ramat Hayal",
+      "Ramle",
+      "Ranana",
+      "Rehovot",
+      "Rishon Center",
+      "Rishon Le'zion",
+      "Rosh Haayin",
+      "Shipment",
+      "TLV Hashmonaim",
+      "Tel Aviv's",
+      "Tel Baruch",
+      "Yavne"
+    ],
+    "similarItem": null,
+    "itemConst": {
+      "telephone_consultation": {
+        "open": 1,
+        "price": "600"
+      }
+    },
+    "complementary_products": [
+      {
+        "uin": "43085",
+        "uinsql": "47354",
+        "name": "אוזניות In-ear מקוריות של Apple עם חיבור Lightning, בקר שליטה ומיקרופון",
+        "image": "https://img.ksp.co.il/item/43085/b_1.jpg",
+        "description": "<BR>אוזניות In-ear מקוריות של Apple עם מיקרופון ובקר שליטה בווליום בחיבור Lightning",
+        "price": "88",
+        "status": "1",
+        "subCategory": "Headphones",
+        "bms": {
+          "uin": 43085,
+          "price": 88,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            }
+          ],
+          "eilat_price": 75,
+          "payments": {
+            "max": 12,
+            "perPayment": 7
+          }
+        }
+      },
+      {
+        "uin": "43087",
+        "uinsql": "47352",
+        "name": "מתאם 3.5 מ''מ לחיבור Lightning מקורי למוצרי אפל",
+        "image": "https://img.ksp.co.il/item/43087/b_1.jpg",
+        "description": "מתאם לאוזניות איכותי מבית Apple בחיבור 3.5 מ''מ לחיבור Lightning ",
+        "price": "45",
+        "status": "1",
+        "subCategory": "Cabels",
+        "bms": {
+          "uin": 43087,
+          "price": 45,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 38,
+          "payments": {
+            "max": 9,
+            "perPayment": 5
+          }
+        }
+      },
+      {
+        "uin": "43088",
+        "uinsql": "47353",
+        "name": "כבל Lightning לחיבור USB מקורי למוצרי אפל באורך 1 מטר",
+        "image": "https://img.ksp.co.il/item/43088/b_1.jpg",
+        "description": "כבל Lightning לחיבור USB איכותי ומקורי של Apple",
+        "price": "85",
+        "status": "1",
+        "subCategory": "Cabels",
+        "bms": {
+          "uin": 43088,
+          "price": 85,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 72,
+          "payments": {
+            "max": 12,
+            "perPayment": 7
+          }
+        }
+      },
+      {
+        "uin": "43699",
+        "uinsql": "47819",
+        "name": "כבל Lightning לחיבור USB מקורי למוצרי אפל באורך 2 מטר",
+        "image": "https://img.ksp.co.il/item/43699/b_5.jpg",
+        "description": "<BR>כבל Lightning לחיבור USB איכותי ומקורי של Apple",
+        "price": "145",
+        "status": "1",
+        "subCategory": "Cabels",
+        "bms": {
+          "uin": 43699,
+          "price": 145,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 123,
+          "payments": {
+            "max": 12,
+            "perPayment": 12
+          }
+        }
+      },
+      {
+        "uin": "48946",
+        "uinsql": "52191",
+        "name": "כבל Lightning לחיבור USB מסוג C מקורי למוצרי אפל באורך 2 מטר",
+        "image": "https://img.ksp.co.il/item/48946/b_3.jpg",
+        "description": "<BR>כבל Lightning לחיבור USB מסוג C איכותי ומקורי של Apple",
+        "price": "155",
+        "status": "1",
+        "subCategory": "Cabels",
+        "bms": {
+          "uin": 48946,
+          "price": 155,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 132,
+          "payments": {
+            "max": 12,
+            "perPayment": 13
+          }
+        }
+      },
+      {
+        "uin": "66444",
+        "uinsql": "69205",
+        "name": "כבל Lightning לחיבור USB מסוג C מקורי למוצרי אפל באורך 1 מטר",
+        "image": "https://img.ksp.co.il/item/66444/b_1.jpg",
+        "description": "<BR>כבל Lightning לחיבור USB מסוג C איכותי ומקורי של Apple לסנכרון וטעינה",
+        "price": "88",
+        "status": "1",
+        "subCategory": "Cabels",
+        "bms": {
+          "uin": 66444,
+          "price": 88,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 75,
+          "payments": {
+            "max": 12,
+            "perPayment": 7
+          }
+        }
+      },
+      {
+        "uin": "121218",
+        "uinsql": "114918",
+        "name": "מטען אלחוטי Apple MagSafe - צבע לבן - <red><b>מחייב מטען קיר Type-C 20W למהירות מקסימלית (ניתן להוסיף בעגלה)</b></red>",
+        "image": "https://img.ksp.co.il/item/121218/b_1.jpg",
+        "description": "<BR>משטח טעינה אלחוטי ואיכותי מבית Apple המאפשר להטעין את הסמארטפון בקלות וללא כבלים",
+        "price": "148",
+        "status": "1",
+        "subCategory": "Chargers",
+        "bms": {
+          "uin": 121218,
+          "price": 148,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 126,
+          "payments": {
+            "max": 12,
+            "perPayment": 12
+          }
+        }
+      },
+      {
+        "uin": "121223",
+        "uinsql": "114917",
+        "name": "מטען קיר Apple 20W USB-C",
+        "image": "https://img.ksp.co.il/item/121223/b_1.jpg",
+        "description": "מטען קיר מקורי ועוצמתי מבית Apple בחיבור USB מסוג C לאייפונים ואייפדים",
+        "price": "85",
+        "status": "1",
+        "subCategory": "Chargers",
+        "bms": {
+          "uin": 121223,
+          "price": 85,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 72,
+          "payments": {
+            "max": 12,
+            "perPayment": 7
+          }
+        }
+      },
+      {
+        "uin": "121444",
+        "uinsql": "114989",
+        "name": "כיסוי Toiko Chiron ל- Apple iPhone 12 / iPhone 12 Pro - צבע שקוף",
+        "image": "https://img.ksp.co.il/item/121444/b_1.jpg",
+        "description": "<BR>כיסוי איכותי מדגם Chiron מבית Toiko ל- Apple iPhone 12 / iPhone 12 Pro - צבע שקוף",
+        "price": "79",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 121444,
+          "price": 79,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 67,
+          "payments": {
+            "max": 12,
+            "perPayment": 7
+          }
+        }
+      },
+      {
+        "uin": "121459",
+        "uinsql": "114990",
+        "name": "כיסוי Toiko X-Guard ל- Apple iPhone 12 / iPhone 12 Pro - צבע שחור",
+        "image": "https://img.ksp.co.il/item/121459/b_1.jpg",
+        "description": "<BR>כיסוי איכותי מדגם X-Guard מבית Toiko ל- Apple iPhone 12 / iPhone 12 Pro - צבע שחור",
+        "price": "79",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 121459,
+          "price": 79,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 67,
+          "payments": {
+            "max": 12,
+            "perPayment": 7
+          }
+        }
+      },
+      {
+        "uin": "121545",
+        "uinsql": "114994",
+        "name": "כיסוי ארנק Premium ל- Apple iPhone 12 / iPhone 12 Pro - צבע שחור",
+        "image": "https://img.ksp.co.il/item/121545/b_1.jpg",
+        "description": "<BR>כיסוי ארנק מבית Premium ל- Apple iPhone 12 / iPhone 12 Pro",
+        "price": "40",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 121545,
+          "price": 40,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 34,
+          "payments": {
+            "max": 8,
+            "perPayment": 5
+          }
+        }
+      },
+      {
+        "uin": "121556",
+        "uinsql": "115003",
+        "name": "מגן מסך קדמי מזכוכית ל- Apple iPhone 12 / iPhone 12 Pro",
+        "image": "https://img.ksp.co.il/item/121556/b_1.jpg",
+        "description": "מגן מסך קדמי מזכוכית ל- Apple iPhone 12 / iPhone 12 Pro",
+        "price": "30",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 121556,
+          "price": 30,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 25,
+          "payments": {
+            "max": 6,
+            "perPayment": 5
+          }
+        }
+      },
+      {
+        "uin": "121589",
+        "uinsql": "114998",
+        "name": "כיסוי TPU ל- Apple iPhone 12 / iPhone 12 Pro - צבע שחור",
+        "image": "https://img.ksp.co.il/item/121589/b_1.jpg",
+        "description": "<BR>כיסוי איכותי למכשיר -  Apple iPhone 12 / iPhone 12 Pro - צבע שחור",
+        "price": "30",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 121589,
+          "price": 30,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 25,
+          "payments": {
+            "max": 6,
+            "perPayment": 5
+          }
+        }
+      },
+      {
+        "uin": "121595",
+        "uinsql": "114999",
+        "name": "כיסוי TPU ל- Apple iPhone 12 / iPhone 12 Pro - צבע שקוף",
+        "image": "https://img.ksp.co.il/item/121595/b_1.jpg",
+        "description": "<BR>כיסוי איכותי למכשיר -  Apple iPhone 12 / iPhone 12 Pro - צבע שקוף",
+        "price": "30",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 121595,
+          "price": 30,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 25,
+          "payments": {
+            "max": 6,
+            "perPayment": 5
+          }
+        }
+      },
+      {
+        "uin": "125980",
+        "uinsql": "118812",
+        "name": "כיסוי מקורי ל- Apple iPhone 12 / 12 Pro עם חיבור MagSafe - שקוף",
+        "image": "https://img.ksp.co.il/item/125980/b_1.jpg",
+        "description": "כיסוי שקוף מקורי מבית Apple מותאם ל- Apple iPhone 12 / 12 Pro עם חיבור MagSafe",
+        "price": "225",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 125980,
+          "price": 225,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 192,
+          "payments": {
+            "max": 12,
+            "perPayment": 19
+          }
+        }
+      },
+      {
+        "uin": "126555",
+        "uinsql": "119696",
+        "name": "מגן מסך קדמי מלא מזכוכית עם קצוות מעוגלים ל- Apple iPhone 12 / iPhone 12 Pro צבע שחור",
+        "image": "https://img.ksp.co.il/item/126555/b_1.jpg",
+        "description": "<BR>מגן מסך קדמי מלא מזכוכית עם קצוות מעוגלים למכשיר - Apple iPhone 12 / iPhone 12 Pro",
+        "price": "50",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 126555,
+          "price": 50,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 42,
+          "payments": {
+            "max": 10,
+            "perPayment": 5
+          }
+        }
+      },
+      {
+        "uin": "129162",
+        "uinsql": "121988",
+        "name": "כיסוי Toiko Chiron MagSafe ל- Apple iPhone 12 / iPhone 12 Pro - צבע שקוף",
+        "image": "https://img.ksp.co.il/item/129162/b_2.jpg",
+        "description": "<BR>כיסוי איכותי מדגם Chiron מבית Toiko ל- Apple iPhone 12 / iPhone 12 Pro - צבע שקוף",
+        "price": "99",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 129162,
+          "price": 99,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 84,
+          "payments": {
+            "max": 12,
+            "perPayment": 8
+          }
+        }
+      },
+      {
+        "uin": "129168",
+        "uinsql": "121987",
+        "name": "כיסוי Toiko Cyclone ל - Apple iPhone 12 / iPhone 12 Pro - צבע שקוף",
+        "image": "https://img.ksp.co.il/item/129168/b_5.jpg",
+        "description": "<BR>כיסוי איכותי מבית Toiko למכשיר - Apple iPhone 12 / iPhone 12 Pro - צבע שקוף",
+        "price": "69",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 129168,
+          "price": 69,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 58,
+          "payments": {
+            "max": 12,
+            "perPayment": 6
+          }
+        }
+      },
+      {
+        "uin": "145733",
+        "uinsql": "135905",
+        "name": "מעמד טעינה אלחוטית 3 ב1  עם Belkin Boost Charge Pro 3-In-1 15W MagSafe - צבע שחור",
+        "image": "https://img.ksp.co.il/item/145733/b_8.jpg",
+        "description": "משטח טעינה אלחוטי ואיכותי מבית Belkin המאפשר טעינה מהירה אלחוטית למכשירי אפל: לסמארטפון, לשעון ולאוזניות בנוחות ובקלות וללא כבלים. כולל נוריות לד לחיווי מצב הטעינה. ניתן להטעין עם כיסויי MagSafe רשמיים.",
+        "price": "689",
+        "status": "1",
+        "subCategory": "Chargers",
+        "bms": {
+          "uin": 145733,
+          "price": 689,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            },
+            {
+              "banner": "https://ksp.co.il/site/siteUpload/13203-980.png",
+              "name": "Benefit coupon 100 NIS discount for American Express owners for points on purchases over 200 NIS. A coupon must be generated on the American Express website before placing an order - to generate the coupon, click here",
+              "href": "https://ksp.co.il/link/Amex100"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 588,
+          "payments": {
+            "max": 12,
+            "perPayment": 57
+          }
+        }
+      },
+      {
+        "uin": "146436",
+        "uinsql": "136636",
+        "name": "מעמד טעינה אלחוטית 2 ב-1 עם Belkin Boost Charge Pro 2-In-1 15W MagSafe - צבע שחור",
+        "image": "https://img.ksp.co.il/item/146436/b_8.jpg",
+        "description": "משטח טעינה אלחוטי ואיכותי מבית Belkin. הטעינו את האייפון החדש שלכם ואת האוזניות האלחוטיות שלכם במעמד טעינה אחד מהיר התומך ב- MagSafe. זהו מנגנון המאפשר לכם פשוט להצמיד את האייפון למשטח המגנטי, והטעינה מתחילה!",
+        "price": "455",
+        "status": "1",
+        "subCategory": "Chargers",
+        "bms": {
+          "uin": 146436,
+          "price": 455,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            },
+            {
+              "banner": "https://ksp.co.il/site/siteUpload/13203-980.png",
+              "name": "Benefit coupon 100 NIS discount for American Express owners for points on purchases over 200 NIS. A coupon must be generated on the American Express website before placing an order - to generate the coupon, click here",
+              "href": "https://ksp.co.il/link/Amex100"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 388,
+          "payments": {
+            "max": 12,
+            "perPayment": 38
+          }
+        }
+      },
+      {
+        "uin": "146442",
+        "uinsql": "136637",
+        "name": "מעמד טעינה אלחוטית 2 ב-1 עם Belkin Boost Charge Pro 2-In-1 15W MagSafe - צבע לבן",
+        "image": "https://img.ksp.co.il/item/146442/b_7.jpg",
+        "description": "משטח טעינה אלחוטי ואיכותי מבית Belkin. הטעינו את האייפון החדש שלכם ואת האוזניות האלחוטיות שלכם במעמד טעינה אחד מהיר התומך ב- MagSafe. זהו מנגנון המאפשר לכם פשוט להצמיד את האייפון למשטח המגנטי, והטעינה מתחילה!",
+        "price": "389",
+        "status": "1",
+        "subCategory": "Chargers",
+        "bms": {
+          "uin": 146442,
+          "price": 389,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 332,
+          "payments": {
+            "max": 12,
+            "perPayment": 32
+          }
+        }
+      },
+      {
+        "uin": "152536",
+        "uinsql": "159852",
+        "name": "כיסוי OtterBox Symmetry ל- iPhone 12 / iPhone 12 Pro עם חיבור MagSafe - שחור",
+        "image": "https://img.ksp.co.il/item/152536/b_1.jpg",
+        "description": "כיסוי שחור מבית OtterBox Symmetry ל- iPhone 12 / iPhone 12 Pro עם חיבור MagSafe ",
+        "price": "99",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 152536,
+          "price": 99,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 84,
+          "payments": {
+            "max": 12,
+            "perPayment": 8
+          }
+        }
+      },
+      {
+        "uin": "152542",
+        "uinsql": "159853",
+        "name": "כיסוי OtterBox Symmetry ל- Apple iPhone 12 / 12 Pro - שקוף",
+        "image": "https://img.ksp.co.il/item/152542/b_1.jpg",
+        "description": "כיסוי שקוף מבית OtterBox מותאם ל - Apple iPhone 12 / 12 Pro ",
+        "price": "125",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 152542,
+          "price": 125,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 106,
+          "payments": {
+            "max": 12,
+            "perPayment": 10
+          }
+        }
+      },
+      {
+        "uin": "152551",
+        "uinsql": "159856",
+        "name": "כיסוי OtterBox Symmetry ל - iPhone 12 / iPhone 12 Pro - שחור",
+        "image": "https://img.ksp.co.il/item/152551/b_1.jpg",
+        "description": "כיסוי שחור איכותי מבית OtterBox Symmetry ל- iPhone 12 / iPhone 12 Pro",
+        "price": "125",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 152551,
+          "price": 125,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 106,
+          "payments": {
+            "max": 12,
+            "perPayment": 10
+          }
+        }
+      },
+      {
+        "uin": "152560",
+        "uinsql": "159857",
+        "name": "כיסוי OtterBox Otterpop ל - Apple iPhone 12 / 12 Pro - שקוף",
+        "image": "https://img.ksp.co.il/item/152560/b_6.jpg",
+        "description": "כיסוי איכותי שקוף מבית OtterBox מותאם ל - Apple iPhone 12 / 12 Pro ",
+        "price": "139",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 152560,
+          "price": 139,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 118,
+          "payments": {
+            "max": 12,
+            "perPayment": 12
+          }
+        }
+      },
+      {
+        "uin": "152605",
+        "uinsql": "159860",
+        "name": "כיסוי OtterBox Otterpop ל - Apple iPhone 12 / 12 Pro - שחור",
+        "image": "https://img.ksp.co.il/item/152605/b_1.jpg",
+        "description": "כיסוי איכותי שחור מבית OtterBox מותאם ל - Apple iPhone 12 / 12 Pro ",
+        "price": "149",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 152605,
+          "price": 149,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 127,
+          "payments": {
+            "max": 12,
+            "perPayment": 12
+          }
+        }
+      },
+      {
+        "uin": "152609",
+        "uinsql": "159861",
+        "name": "כיסוי OtterBox Defender ל - Apple iPhone 12 / 12 Pro - שחור",
+        "image": "https://img.ksp.co.il/item/152609/b_1.jpg",
+        "description": "כיסוי איכותי שחור מבית OtterBox מותאם ל - Apple iPhone 12 / 12 Pro ",
+        "price": "189",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 152609,
+          "price": 189,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 161,
+          "payments": {
+            "max": 12,
+            "perPayment": 16
+          }
+        }
+      },
+      {
+        "uin": "156006",
+        "uinsql": "166273",
+        "name": "מעמד טעינה אלחוטית מגנטית עם Belkin Boost Charge 7.5W MagSafe - צבע שחור",
+        "image": "https://img.ksp.co.il/item/156006/b_4.jpg",
+        "description": "משטח טעינה אלחוטי מגנטי מבית Belkin. הניחו את המכשיר על גבי המשטח המגנטי והטעינה מתחילה! מיועדת למכשירי אייפון 12 ומעלה בהספק של 7.5W.",
+        "price": "189",
+        "status": "1",
+        "subCategory": "Chargers",
+        "bms": {
+          "uin": 156006,
+          "price": 189,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 161,
+          "payments": {
+            "max": 12,
+            "perPayment": 16
+          }
+        }
+      },
+      {
+        "uin": "163082",
+        "uinsql": "171100",
+        "name": "סוללת גיבוי Apple MagSafe Battery Pack",
+        "image": "https://img.ksp.co.il/item/163082/b_1.jpg",
+        "description": "סוללה ניידת Apple MagSafe Battery Pack מאפשרת הטענת מכשירי iPhone 12 תואמים תוך כדי תנועה עם עיצוב קומפקטי ואינטואיטיבי שמתחבר בקלות למכשיר שלכם. <red><b>מתאם חשמל וכבל נמכרים בנפרד.</b></red>",
+        "price": "465",
+        "status": "1",
+        "subCategory": "Backup Battery",
+        "bms": {
+          "uin": 163082,
+          "price": 465,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            },
+            {
+              "banner": "https://ksp.co.il/site/siteUpload/13203-980.png",
+              "name": "Benefit coupon 100 NIS discount for American Express owners for points on purchases over 200 NIS. A coupon must be generated on the American Express website before placing an order - to generate the coupon, click here",
+              "href": "https://ksp.co.il/link/Amex100"
+            }
+          ],
+          "eilat_price": 397,
+          "payments": {
+            "max": 12,
+            "perPayment": 39
+          }
+        }
+      },
+      {
+        "uin": "167932",
+        "uinsql": "173988",
+        "name": "משטח מגנטי ספורטיבי עם מנגנון Belkin MagSafe",
+        "image": "https://img.ksp.co.il/item/167932/b_1.jpg",
+        "description": "משטח מגנטי ספורטיבי עם מנגנון MagSafe מבית Belkin. תושבת מגנטית גמישה ודו כיוונית, המאפשרת הצמדה של האייפון 12 שלכם לכל משטח מתכת מגנטי. ניתן לחבר את התושבת למשטחים כגון: מקרר, דלת פלדה, מכשירי כושר ועוד. מכשיר האייפון מתחבר בקלות וביעילות למשטח המגנטי ונשאר שם ללא תזוזה!",
+        "price": "149",
+        "status": "1",
+        "subCategory": "Bicycle Accessories",
+        "bms": {
+          "uin": 167932,
+          "price": 149,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit163837122730570.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪75 הנחה מיידית (בסך הכל) ברכישה מעל ₪499 מהמוצרים המשתתפים במבצע",
+              "campaignId": "13230",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424209935295.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 127,
+          "payments": {
+            "max": 12,
+            "perPayment": 12
+          }
+        }
+      },
+      {
+        "uin": "168102",
+        "uinsql": "174198",
+        "name": "סוללת גיבוי אלחוטית Belkin Boost Charge 10000mAh Magsafe  - צבע שחור",
+        "image": "https://img.ksp.co.il/item/168102/b_1.jpg",
+        "description": "סוללה גיבוי מבית Belkin לטעינה של סדרת אייפון 12 בעלי טכנולוגיית Magsafe (טעינה מגנטית). ניתן להשתמש בסוללת הגיבוי גם דרך הארנק של אפל והקייס המקורי. האייפון מוטען ב'ריחוף' ללא חשש מתזוזה או נפילה - לטעינה בטוחה ומהירה.",
+        "price": "269",
+        "status": "1",
+        "subCategory": "Backup Battery",
+        "bms": {
+          "uin": 168102,
+          "price": 269,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 229,
+          "payments": {
+            "max": 12,
+            "perPayment": 22
+          }
+        }
+      },
+      {
+        "uin": "168463",
+        "uinsql": "M114999",
+        "name": "מציאון ועודפים - כיסוי TPU ל- Apple iPhone 12 / iPhone 12 Pro - צבע שקוף",
+        "image": "https://img.ksp.co.il/item/168463/b_1.jpg",
+        "description": "<BR>כיסוי איכותי למכשיר -  Apple iPhone 12 / iPhone 12 Pro - צבע שקוף",
+        "price": "10",
+        "status": "1",
+        "subCategory": "Discounted Items &amp; Display",
+        "bms": {
+          "uin": 168463,
+          "price": 10,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit160094423837078.gif"
+          ],
+          "triggered": [
+            {
+              "name": "מגוון מוצרי מציאון באקסטרה 5% הנחה >> ",
+              "campaignId": "13231"
+            }
+          ],
+          "payments": {
+            "max": 2,
+            "perPayment": 5
+          }
+        }
+      },
+      {
+        "uin": "172910",
+        "uinsql": "177631",
+        "name": " מעמד מגנטי לרכב Belkin Car Vent Mount Pro With MagSafe - צבע אפור",
+        "image": "https://img.ksp.co.il/item/172910/b_1.jpg",
+        "description": " מעמד מגנטי לרכב מבית Belkin, נצמד לפתח האוורור, תומך בטכנולוגיית MagSafe למכשירי אייפון 12/13. לא כולל מטען.",
+        "price": "229",
+        "status": "1",
+        "subCategory": "Arms For Car",
+        "bms": {
+          "uin": 172910,
+          "price": 229,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 195,
+          "payments": {
+            "max": 12,
+            "perPayment": 19
+          }
+        }
+      },
+      {
+        "uin": "172968",
+        "uinsql": "177710",
+        "name": "ארנק עור MagSafe מקורי לכיסוי לסדרות 12/13 Apple iPhone  - צבע Golden Brown",
+        "image": "https://img.ksp.co.il/item/172968/b_1.jpg",
+        "description": "<b> כיסוי עור מקורי לסדרות 12/13 iPhone מבית Apple עם חיבור MagSafe עיצוב מסוגנן ופונקציונלי כאחד, ארנק העור ל-iPhone עם MagSafe הוא הדרך המושלמת לשמור על התעודות וכרטיסי האשראי שלכם בהישג יד. ",
+        "price": "279",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 172968,
+          "price": 279,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 238,
+          "payments": {
+            "max": 12,
+            "perPayment": 23
+          }
+        }
+      },
+      {
+        "uin": "172992",
+        "uinsql": "177643",
+        "name": "מטען אלחוטי/מגנטי 7.5W עם כבל USB Type-C באורך 2 מטר עם Belkin Boost Charge MagSafe - צבע לבן",
+        "image": "https://img.ksp.co.il/item/172992/b_1.jpg",
+        "description": "מטען אלחוטי/מגנטי 7.5W עם כבל USB Type-C באורך 2 מטר עם MagSafe מבית Belkin. הניחו את המכשיר על גבי המשטח המגנטי והטעינה מתחילה! מיועדת למכשירי אייפון 12 ומעלה בהספק של 7.5W.",
+        "price": "245",
+        "status": "1",
+        "subCategory": "Chargers",
+        "bms": {
+          "uin": 172992,
+          "price": 245,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 209,
+          "payments": {
+            "max": 12,
+            "perPayment": 20
+          }
+        }
+      },
+      {
+        "uin": "172997",
+        "uinsql": "177703",
+        "name": "ארנק עור MagSafe מקורי לכיסוי לסדרות 12/13 Apple iPhone  - צבע Dark Cherry",
+        "image": "https://img.ksp.co.il/item/172997/b_1.jpg",
+        "description": "<b> כיסוי עור מקורי לסדרות 12/13 iPhone מבית Apple עם חיבור MagSafe עיצוב מסוגנן ופונקציונלי כאחד, ארנק העור ל-iPhone עם MagSafe הוא הדרך המושלמת לשמור על התעודות וכרטיסי האשראי שלכם בהישג יד. ",
+        "price": "279",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 172997,
+          "price": 279,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 238,
+          "payments": {
+            "max": 12,
+            "perPayment": 23
+          }
+        }
+      },
+      {
+        "uin": "172998",
+        "uinsql": "177702",
+        "name": "ארנק עור MagSafe מקורי לכיסוי לסדרות 12/13 Apple iPhone  - צבע Wisteria",
+        "image": "https://img.ksp.co.il/item/172998/b_1.jpg",
+        "description": "<b> כיסוי עור מקורי לסדרות 12/13 iPhone מבית Apple עם חיבור MagSafe עיצוב מסוגנן ופונקציונלי כאחד, ארנק העור ל-iPhone עם MagSafe הוא הדרך המושלמת לשמור על התעודות וכרטיסי האשראי שלכם בהישג יד. ",
+        "price": "279",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 172998,
+          "price": 279,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 238,
+          "payments": {
+            "max": 12,
+            "perPayment": 23
+          }
+        }
+      },
+      {
+        "uin": "172999",
+        "uinsql": "177712",
+        "name": "ארנק עור MagSafe מקורי לכיסוי לסדרות 12/13 Apple iPhone  - צבע Sequoia Green",
+        "image": "https://img.ksp.co.il/item/172999/b_1.jpg",
+        "description": "<b> כיסוי עור מקורי לסדרות 12/13 iPhone מבית Apple עם חיבור MagSafe עיצוב מסוגנן ופונקציונלי כאחד, ארנק העור ל-iPhone עם MagSafe הוא הדרך המושלמת לשמור על התעודות וכרטיסי האשראי שלכם בהישג יד. ",
+        "price": "279",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 172999,
+          "price": 279,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 238,
+          "payments": {
+            "max": 12,
+            "perPayment": 23
+          }
+        }
+      },
+      {
+        "uin": "173000",
+        "uinsql": "177705",
+        "name": "ארנק עור MagSafe מקורי לכיסוי לסדרות 12/13 Apple iPhone  - צבע Midnight",
+        "image": "https://img.ksp.co.il/item/173000/b_1.jpg",
+        "description": "<b> כיסוי עור מקורי לסדרות 12/13 iPhone מבית Apple עם חיבור MagSafe עיצוב מסוגנן ופונקציונלי כאחד, ארנק העור ל-iPhone עם MagSafe הוא הדרך המושלמת לשמור על התעודות וכרטיסי האשראי שלכם בהישג יד. ",
+        "price": "279",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 173000,
+          "price": 279,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+              "campaignId": "3918",
+              "href": "https://ksp.co.il/web/cat/14753"
+            },
+            {
+              "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+              "campaignId": "8490",
+              "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+            },
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 238,
+          "payments": {
+            "max": 12,
+            "perPayment": 23
+          }
+        }
+      },
+      {
+        "uin": "178733",
+        "uinsql": "182856",
+        "name": "מעמד שולחן מגנטי עם מעקב אחרי פנים Belkin צבע לבן",
+        "image": "https://img.ksp.co.il/item/178733/b_1.jpg",
+        "description": "מעמד שולחן מגנטי התואם ל-iPhone 1213 עם תכונת מעקב באמצעות זיהוי פנים.",
+        "price": "259",
+        "status": "1",
+        "subCategory": "Selfie & Streaming Accessories",
+        "bms": {
+          "uin": 178733,
+          "price": 259,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 221,
+          "payments": {
+            "max": 12,
+            "perPayment": 22
+          }
+        }
+      },
+      {
+        "uin": "180681",
+        "uinsql": "184097",
+        "name": "מעמד טעינה אלחוטית 3 ב1  עם Belkin Boost Charge Pro 3-In-1 15W MagSafe - צבע לבן",
+        "image": "https://img.ksp.co.il/item/180681/b_1.jpg",
+        "description": "משטח טעינה אלחוטי ואיכותי מבית Belkin המאפשר טעינה מהירה אלחוטית למכשירי אפל: לסמארטפון, לשעון ולאוזניות בנוחות ובקלות וללא כבלים. כולל נוריות לד לחיווי מצב הטעינה. ניתן להטעין עם כיסויי MagSafe רשמיים.",
+        "price": "689",
+        "status": "1",
+        "subCategory": "Chargers",
+        "bms": {
+          "uin": 180681,
+          "price": 689,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            },
+            {
+              "banner": "https://ksp.co.il/site/siteUpload/13203-980.png",
+              "name": "Benefit coupon 100 NIS discount for American Express owners for points on purchases over 200 NIS. A coupon must be generated on the American Express website before placing an order - to generate the coupon, click here",
+              "href": "https://ksp.co.il/link/Amex100"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 588,
+          "payments": {
+            "max": 12,
+            "perPayment": 57
+          }
+        }
+      },
+      {
+        "uin": "182311",
+        "uinsql": "185518",
+        "name": "כיסוי OtterBox Commuter Antimicrobial ל- iPhone 12 / iPhone 12 Pro  - שחור",
+        "image": "https://img.ksp.co.il/item/182311/b_2.jpg",
+        "description": "כיסוי Commuter מבית OtterBox ל- iPhone 12 / iPhone 12 Pro",
+        "price": "149",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 182311,
+          "price": 149,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 127,
+          "payments": {
+            "max": 12,
+            "perPayment": 12
+          }
+        }
+      },
+      {
+        "uin": "182381",
+        "uinsql": "185516",
+        "name": "כיסוי OtterBox Defender XT עם MagSafe ל- iPhone 12 / iPhone 12 Pro - שחור",
+        "image": "https://img.ksp.co.il/item/182381/b_1.jpg",
+        "description": "כיסוי Defender XT מבית OtterBox ל- iPhone 12 / iPhone 12 Pro",
+        "price": "189",
+        "status": "1",
+        "subCategory": "Mobile Phones Accessories",
+        "bms": {
+          "uin": 182381,
+          "price": 189,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "eilat_price": 161,
+          "payments": {
+            "max": 12,
+            "perPayment": 16
+          }
+        }
+      },
+      {
+        "uin": "183804",
+        "uinsql": "186926",
+        "name": "סוללת גיבוי אלחוטית Belkin Boost Charge 10000mAh Magsafe  - צבע לבן",
+        "image": "https://img.ksp.co.il/item/183804/b_1.jpg",
+        "description": "סוללה גיבוי מבית Belkin לטעינה של סדרת אייפון 12 בעלי טכנולוגיית Magsafe (טעינה מגנטית). ניתן להשתמש בסוללת הגיבוי גם דרך הארנק של אפל והקייס המקורי. האייפון מוטען ב'ריחוף' ללא חשש מתזוזה או נפילה - לטעינה בטוחה ומהירה.",
+        "price": "269",
+        "status": "1",
+        "subCategory": "Backup Battery",
+        "bms": {
+          "uin": 183804,
+          "price": 269,
+          "icons": [
+            "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif",
+            "https://ksp.co.il/site/siteUpload/benefit163929551635078.png"
+          ],
+          "triggered": [
+            {
+              "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+              "campaignId": "13228",
+              "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+              "href": "http://ksp.co.il/link/JoinTelegram",
+              "target": "_system"
+            }
+          ],
+          "discount": {
+            "name": "מבצעי סוף שבוע - מחיר משתלם מחכה לכם בעגלת הקניות!",
+            "url": "/sale/30072",
+            "store_discount": false
+          },
+          "eilat_price": 229,
+          "payments": {
+            "max": 12,
+            "perPayment": 22
+          }
+        }
+      }
+    ],
+    "bms": {
+      "124953": {
+        "uin": 124953,
+        "price": 3049,
+        "icons": [
+          "https://ksp.co.il/site/siteUpload/benefit154503225428240.png",
+          "https://ksp.co.il/site/siteUpload/benefit164423437586548.gif"
+        ],
+        "triggered": [
+          {
+            "name": "קונים מחשב, טלפון או טאבלט חדש ומקבלים מקלדת חינוכית Webee במחיר מיוחד בעגלת הקניות",
+            "campaignId": "2473",
+            "banner": "https://ksp.co.il/site/siteUpload/benefit164111486255320.png"
+          },
+          {
+            "name": "25% הנחה על ביגוד רכיבה, מיגון וקסדות מבית Funkier ברכישת מוצר זה",
+            "campaignId": "3918",
+            "href": "https://ksp.co.il/web/cat/14753"
+          },
+          {
+            "name": "5% הנחה על פדלים עם מד וואטים מבית Garmin",
+            "campaignId": "8490",
+            "href": "https://ksp.co.il/web/cat/6912..8391..7271..2160"
+          },
+          {
+            "name": "קונים סמארטפון / טאבלט / מחשב נייד/ מסך ומקבלים ערכה עם 60 מגבונים לניקוי מסכים מבית Zeiss ב-35 ש\"ח",
+            "campaignId": "13122",
+            "banner": "https://ksp.co.il/site/siteUpload/benefit164380910211311.png"
+          },
+          {
+            "name": "משתתף במבצע קופון לחברי הטלגרם! קבלו ₪50 הנחה מיידית ברכישה מעל ₪499 ממוצרי קטגוריית מחשבים וסלולר המשתתפים במבצע",
+            "campaignId": "13228",
+            "banner": "https://ksp.co.il/site/siteUpload/benefit164424215028895.png",
+            "href": "http://ksp.co.il/link/JoinTelegram",
+            "target": "_system"
+          },
+          {
+            "banner": "https://ksp.co.il/site/siteUpload/13203-980.png",
+            "name": "Benefit coupon 100 NIS discount for American Express owners for points on purchases over 200 NIS. A coupon must be generated on the American Express website before placing an order - to generate the coupon, click here",
+            "href": "https://ksp.co.il/link/Amex100"
+          }
+        ],
+        "eilat_price": 2605,
+        "payments": {
+          "max": 36,
+          "perPayment": 85
+        },
+        "fdi": {
+          "status": false,
+          "price": null
+        }
+      }
+    },
+    "delivery": [
+      {
+        "hool": false,
+        "cont": "<b>* Days refers to business days starting from the moment of approval of the transaction with the credit company</b><br><br>* Maximum number of delivery days to most pickup points (see details in shopping cart)",
+        "place": null,
+        "price": 0,
+        "time": {
+          "min": "1",
+          "max": 6,
+          "full_text": null
+        },
+        "title": "Delivery to pickup point In 56 Ksp branches",
+        "type": "PickUpKsp"
+      },
+      {
+        "hool": false,
+        "cont": "<b>* Days refers to business days starting from the moment of approval of the transaction with the credit company</b><br><br>* except distant communities",
+        "place": null,
+        "price": 0,
+        "time": {
+          "min": "2",
+          "max": 7,
+          "full_text": null
+        },
+        "title": "Delivery to client's house",
+        "type": "direct"
+      },
+      {
+        "hool": false,
+        "cont": "<b>* orders that will be placed till 11:00 o'clock will be delivered at the same day</b><br><br>* fast delivery is contingent upon the stock availability in the requested geographic area, this this option will be shown in the shopping cart.",
+        "place": null,
+        "price": 29,
+        "time": {
+          "min": null,
+          "max": null,
+          "full_text": null
+        },
+        "title": "Fast delivery",
+        "type": "FastDirect"
+      },
+      {
+        "hool": false,
+        "cont": "<b>* Days refers to business days starting from the moment of approval of the transaction with the credit company</b><br><br>* Locker - pickup points inside nationwide retail stores, mostly limited to one item (see details in shopping cart)",
+        "place": null,
+        "price": 9,
+        "time": {
+          "min": "2",
+          "max": 7,
+          "full_text": null
+        },
+        "title": "Delivery to a variety of pickup points",
+        "type": "PickUpBoxit"
+      },
+      {
+        "hool": false,
+        "cont": "Planning a trip to Eilat?\n\n<br><br>You can order the products before arriving to Eilat and the products will be waiting for you at the branch.\n\n<br><br><b>Just select the products you wish to purchase in Eilat, then select \"Pickup in Eilat\" in the shopping cart, noting branch for the pickup.</b>\n\n<br><br>When you finish the order you will be prompted to fill in credit card details for security purpose only. <b>Eilat pre-order</b><br><br>*depends on the stock at supporting branches",
+        "place": null,
+        "price": null,
+        "time": {
+          "min": null,
+          "max": null,
+          "full_text": null
+        },
+        "title": "Reserve the product in Eilat",
+        "type": "EilatReserve"
+      }
+    ],
+    "hool": false,
+    "coupon": null,
+    "redMsg": false,
+    "upsale": {
+      "categories": [
+        {
+          "uin": "all",
+          "name": "כל הקטגוריות"
+        },
+        {
+          "uin": "28735",
+          "name": "אביזרים לטלפונים"
+        },
+        {
+          "uin": "1529",
+          "name": "מציאון ותצוגות"
+        },
+        {
+          "uin": "38",
+          "name": "כבלים"
+        },
+        {
+          "uin": "29386",
+          "name": "מטענים"
+        },
+        {
+          "uin": "242",
+          "name": "אוזניות"
+        },
+        {
+          "uin": "1083",
+          "name": "סוללות גיבוי נטענות"
+        }
+      ],
+      "items": [
+        {
+          "uin": "168463",
+          "uinsql": "M114999",
+          "price": "10",
+          "img": "https://ksp.co.il/shop/items/100/168463.jpg",
+          "name": "Display - TPU Case For Apple iPhone 12 / iPhone 12 Pro Clear",
+          "tags": "401,667,1215,1225,1529,2005,2906,4184,9335,17718,17719,28735,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "121556",
+          "uinsql": "115003",
+          "price": "30",
+          "img": "https://ksp.co.il/shop/items/100/121556.jpg",
+          "name": "Glass Screen Protector For Apple iPhone 12 / iPhone 12 Pro",
+          "tags": "1225,2083,2906,9335,17718,17719,27250,28313,28735,30001,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "121589",
+          "uinsql": "114998",
+          "price": "30",
+          "img": "https://ksp.co.il/shop/items/100/121589.jpg",
+          "name": "TPU Case For Apple iPhone 12 / iPhone 12 Pro Black",
+          "tags": "382,401,1225,2906,9335,17718,17719,27250,28313,28735,30001,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "121595",
+          "uinsql": "114999",
+          "price": "30",
+          "img": "https://ksp.co.il/shop/items/100/121595.jpg",
+          "name": "TPU Case For Apple iPhone 12 / iPhone 12 Pro Clear",
+          "tags": "401,667,1225,2906,9335,17718,17719,27250,28313,28735,30001,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "75547",
+          "uinsql": "76072",
+          "price": "39",
+          "img": "https://ksp.co.il/shop/items/100/75547.jpg",
+          "name": "Miracase 5000mAh Slim Universal USB Portable Backup PowerBank White MPBM5000",
+          "tags": "383,857,999,1083,1579,1658,1715,2063,9335,27250,28313,30001,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "75546",
+          "uinsql": "76073",
+          "price": "39",
+          "img": "https://ksp.co.il/shop/items/100/75546.jpg",
+          "name": "Miracase 5000mAh Slim Universal USB Portable Backup PowerBank Black MPBM5000",
+          "tags": "382,857,999,1083,1579,1658,1715,2063,9335,27250,28313,30001,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "121545",
+          "uinsql": "114994",
+          "price": "40",
+          "img": "https://ksp.co.il/shop/items/100/121545.jpg",
+          "name": "Premium Wallet Case For Apple iPhone 12 / iPhone 12 Pro Black",
+          "tags": "382,401,2906,5117,5154,9335,17718,17719,27250,28313,28735,30001,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "43087",
+          "uinsql": "47352",
+          "price": "45",
+          "img": "https://ksp.co.il/shop/items/100/43087.jpg",
+          "name": "Apple Lightning to 3.5mm Headphone Jack Adapter",
+          "tags": "38,245,698,857,1007,1547,1548,1991,9335,12573,17717,17718,17719,17723,28707,28708,28711,28715,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "126555",
+          "uinsql": "119696",
+          "price": "50",
+          "img": "https://ksp.co.il/shop/items/100/126555.jpg",
+          "name": "Full Glass Screen Protector For Apple iPhone 12 / iPhone 12 Pro",
+          "tags": "1225,2083,2906,9335,17718,17719,27250,28313,28735,30001,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "145744",
+          "uinsql": "135903",
+          "price": "59",
+          "img": "https://ksp.co.il/shop/items/100/145744.jpg",
+          "name": "Belkin Pocket Power 5000mAh Power Bank USB-A + Micro USB 12W Rose Gold ",
+          "tags": "857,878,963,999,1083,1579,3288,5051,9335,27250,28313,30072,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "127795",
+          "uinsql": "120902",
+          "price": "59",
+          "img": "https://ksp.co.il/shop/items/100/127795.jpg",
+          "name": "Miracase 10000mAh Universal 2xUSB Portable Backup PowerBank White",
+          "tags": "383,857,999,1083,1658,1691,1714,1716,2063,5521,9335,27250,28313,30001,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "127591",
+          "uinsql": "120903",
+          "price": "59",
+          "img": "https://ksp.co.il/shop/items/100/127591.jpg",
+          "name": "Miracase 10000mAh Universal 2xUSB Portable Backup PowerBank Black",
+          "tags": "382,857,999,1083,1658,1691,1714,1716,2063,5521,9335,27250,28313,30001,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "38947",
+          "uinsql": "43852",
+          "price": "64",
+          "img": "https://ksp.co.il/shop/items/100/38947.jpg",
+          "name": "Miracase 10000mAh Universal 2xUSB Portable Backup PowerBank White MPB10000XS 7290016040241",
+          "tags": "383,857,999,1083,1658,1691,1714,1715,2063,9335,27250,28313,30001,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "129168",
+          "uinsql": "121987",
+          "price": "69",
+          "img": "https://ksp.co.il/shop/items/100/129168.jpg",
+          "name": "Toiko Cyclone Case For Apple iPhone 12 / iPhone 12 Pro Clear",
+          "tags": "401,667,2906,4661,9335,17718,17719,23957,27250,28313,28735,30001,30072,30073,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "145970",
+          "uinsql": "136301",
+          "price": "79",
+          "img": "https://ksp.co.il/shop/items/100/145970.jpg",
+          "name": "Belkin Boost Charge USB-C 20W Wall Charger White",
+          "tags": "403,857,963,2846,7391,9335,23957,27250,28313,29386,30001,30072,30073,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "121459",
+          "uinsql": "114990",
+          "price": "79",
+          "img": "https://ksp.co.il/shop/items/100/121459.jpg",
+          "name": "Toiko X-Guard Case For Apple iPhone 12 / iPhone 12 Pro Black",
+          "tags": "382,401,2906,4661,9335,17718,17719,23957,27250,28313,28735,30001,30072,30073,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "121444",
+          "uinsql": "114989",
+          "price": "79",
+          "img": "https://ksp.co.il/shop/items/100/121444.jpg",
+          "name": "Toiko Chiron Case For Apple iPhone 12 / iPhone 12 Pro Clear",
+          "tags": "401,667,2906,4661,9335,17718,17719,23957,27250,28313,28735,30001,30072,30073,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "156730",
+          "uinsql": "166405",
+          "price": "79",
+          "img": "https://ksp.co.il/shop/items/100/156730.jpg",
+          "name": "Baseus Gentleman Digital Display Powerbank 10000mAh 2xUSB-A Micro-USB White",
+          "tags": "383,857,878,999,1083,1658,1691,5832,6175,9335,23957,27250,28313,30001,30073,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "121223",
+          "uinsql": "114917",
+          "price": "85",
+          "img": "https://ksp.co.il/shop/items/100/121223.jpg",
+          "name": "Apple 20W USB-C Power Adapter",
+          "tags": "245,403,857,2846,7391,9335,17717,17718,17719,17723,27250,28707,28708,28711,28715,29386,29949,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "44875",
+          "uinsql": "48826",
+          "price": "85",
+          "img": "https://ksp.co.il/shop/items/100/44875.jpg",
+          "name": "Eco 10000mAh Portable Power Bank With Smart LCD Display And LED Light Blue",
+          "tags": "857,999,1083,1658,1691,1715,3850,9335,27250,28313,30001,30123,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "66444",
+          "uinsql": "69205",
+          "price": "88",
+          "img": "https://ksp.co.il/shop/items/100/66444.jpg",
+          "name": "Apple USB-C to Lightning Cable 1m",
+          "tags": "38,245,857,1052,1177,1547,1548,2846,9335,17717,17718,17719,17723,27250,28707,28708,28711,28715,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "181374",
+          "uinsql": "184608",
+          "price": "89",
+          "img": "https://ksp.co.il/shop/items/100/181374.jpg",
+          "name": "Miracase Power Bank 10000mAh With USB-A To Type-C Cable Black",
+          "tags": "382,857,999,1083,1691,2063,2846,9335,28313,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "181378",
+          "uinsql": "184609",
+          "price": "89",
+          "img": "https://ksp.co.il/shop/items/100/181378.jpg",
+          "name": "Miracase Power Bank 10000mAh With USB-A To Type-C Cable White ",
+          "tags": "383,857,999,1083,1691,2063,2846,9335,28313,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "129014",
+          "uinsql": "121758",
+          "price": "98",
+          "img": "https://ksp.co.il/shop/items/100/129014.jpg",
+          "name": "Playa By Belkin Power Bank 10000mAh USB-C 15W 2xUSB-A 15W Black",
+          "tags": "382,857,878,999,1083,1658,1691,2846,7519,9335,19594,23957,27250,30001,30073,30123,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "187717",
+          "uinsql": "190300",
+          "price": "99",
+          "img": "https://ksp.co.il/shop/items/100/187717.jpg",
+          "name": "Miracase 10000mAh Built In Type-C Portable PowerBank White",
+          "tags": "383,857,1083,1658,1691,2063,2846,9335,28313,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "152536",
+          "uinsql": "159852",
+          "price": "99",
+          "img": "https://ksp.co.il/shop/items/100/152536.jpg",
+          "name": "OtterBox Symmetry Black Case for iPhone 12 And iPhone 12 Pro With MagSafe",
+          "tags": "382,401,485,17718,17719,25795,28313,28735,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "187716",
+          "uinsql": "190299",
+          "price": "99",
+          "img": "https://ksp.co.il/shop/items/100/187716.jpg",
+          "name": "Miracase 10000mAh Built In Type-C Portable PowerBank Black",
+          "tags": "382,857,1083,1658,1691,2063,2846,9335,28313,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "129162",
+          "uinsql": "121988",
+          "price": "99",
+          "img": "https://ksp.co.il/shop/items/100/129162.jpg",
+          "name": "Toiko Chiron MagSafe Case For Apple iPhone 12 / iPhone 12 Pro Clear",
+          "tags": "401,667,2906,4661,9335,17718,17719,23957,27250,28313,28735,30001,30072,30073,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "91226",
+          "uinsql": "88519",
+          "price": "105",
+          "img": "https://ksp.co.il/shop/items/100/91226.jpg",
+          "name": "Philips 10000mAh 3xUSB Portable Backup PowerBank Black DLP2710NB",
+          "tags": "382,506,857,878,999,1083,1658,1691,1716,2846,9335,13346,23957,27250,28313,29737,30001,30073,30123,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "156297",
+          "uinsql": "166507",
+          "price": "109",
+          "img": "https://ksp.co.il/shop/items/100/156297.jpg",
+          "name": "Baseus Bipow Quick Charge Powerbank 10000mAh MicroUSB USB-A Type-C Black",
+          "tags": "382,857,878,999,1083,1658,2846,5200,5832,7389,9335,27250,28313,30001,30072,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "185121",
+          "uinsql": "188012",
+          "price": "114",
+          "img": "https://ksp.co.il/shop/items/100/185121.jpg",
+          "name": "Lexon Nomaday Power Bank 3000mAh Gold",
+          "tags": "820,857,999,1083,1507,2846,9335,13346,19720,28313,30072,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "184702",
+          "uinsql": "187816",
+          "price": "119",
+          "img": "https://ksp.co.il/shop/items/100/184702.jpg",
+          "name": "Belkin Boostcharge 10000 mAh Power Bank With Lightning Connector MFI White",
+          "tags": "383,857,963,1083,1547,1691,9335,28313,30072,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "136766",
+          "uinsql": "129366",
+          "price": "119",
+          "img": "https://ksp.co.il/shop/items/100/136766.jpg",
+          "name": " Eco Portable Ultra Fast Charging Battery 10000mAh ECO-600",
+          "tags": "382,857,999,1083,1547,1658,1691,2099,2846,3850,9335,22063,27250,28313,30001,30123,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "152551",
+          "uinsql": "159856",
+          "price": "125",
+          "img": "https://ksp.co.il/shop/items/100/152551.jpg",
+          "name": "OtterBox Symmetry Black Case for iPhone 12 And iPhone 12 Pro",
+          "tags": "382,401,485,17718,17719,25795,28313,28735,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "152542",
+          "uinsql": "159853",
+          "price": "125",
+          "img": "https://ksp.co.il/shop/items/100/152542.jpg",
+          "name": "OtterBox Symmetry Clear Case for iPhone 12 And iPhone 12 Pro",
+          "tags": "401,485,667,17718,17719,25795,28313,28735,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "130108",
+          "uinsql": "122369",
+          "price": "135",
+          "img": "https://ksp.co.il/shop/items/100/130108.jpg",
+          "name": "Miracase 10000Mah Power Bank USB-C 2xUSB-A Quick Charge 3.0 Purple Gray",
+          "tags": "389,461,857,1083,1658,1675,1691,1715,2063,2109,2693,2846,5200,9335,27250,28313,30001,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "130104",
+          "uinsql": "122368",
+          "price": "135",
+          "img": "https://ksp.co.il/shop/items/100/130104.jpg",
+          "name": "Miracase 10000Mah Power Bank USB-C 2xUSB-A Quick Charge 3.0 Dark Grey",
+          "tags": "389,857,1083,1658,1675,1691,1715,2063,2846,5200,9335,27250,28313,30001,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "152560",
+          "uinsql": "159857",
+          "price": "139",
+          "img": "https://ksp.co.il/shop/items/100/152560.jpg",
+          "name": "OtterBox Otterpop Clear Pop Case for iPhone 12 And iPhone 12 Pro",
+          "tags": "401,485,667,17718,17719,25796,27250,28313,28735,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "45207",
+          "uinsql": "48968",
+          "price": "139",
+          "img": "https://ksp.co.il/shop/items/100/45207.jpg",
+          "name": "ORICO Travel Charger Pack 10000mAh Portable PowerBank, USB Charger, Car Charger CTS200",
+          "tags": "857,999,1083,1658,1691,2099,4502,9335,27250,28313,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "187701",
+          "uinsql": "190336",
+          "price": "139",
+          "img": "https://ksp.co.il/shop/items/100/187701.jpg",
+          "name": "Miracase 20000mAh Universal USB Type-C Micro USB Portable PowerBank Black",
+          "tags": "382,857,878,999,1083,1658,2063,2230,2846,9335,28313,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "156686",
+          "uinsql": "166407",
+          "price": "139",
+          "img": "https://ksp.co.il/shop/items/100/156686.jpg",
+          "name": "Baseus Qpow Display Powerbank 10000mAh 2xUSB-A Type-C Lightning And Cable",
+          "tags": "382,857,999,1083,1547,1658,1691,2846,5832,7519,9335,23957,27250,28313,30001,30073,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "156701",
+          "uinsql": "166406",
+          "price": "139",
+          "img": "https://ksp.co.il/shop/items/100/156701.jpg",
+          "name": "Baseus Qpow Display Powerbank 10000mAh 2xUSB-A Lightning Type-C And Cable",
+          "tags": "382,857,999,1083,1547,1658,1691,2846,5832,7519,9335,23957,27250,28313,30073,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "129019",
+          "uinsql": "121757",
+          "price": "147",
+          "img": "https://ksp.co.il/shop/items/100/129019.jpg",
+          "name": "Playa By Belkin Power Bank 10000Mah USB-C 18W USB-A 12W Black",
+          "tags": "382,857,999,1083,1658,1691,2846,7389,9335,19594,23957,27250,30072,30073,30123,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "121218",
+          "uinsql": "114918",
+          "price": "148",
+          "img": "https://ksp.co.il/shop/items/100/121218.jpg",
+          "name": "Apple MagSafe Charger",
+          "tags": "245,857,2088,2846,5068,9335,17717,17718,17719,17723,27250,28707,28708,28711,28715,29386,30620,30621,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "152605",
+          "uinsql": "159860",
+          "price": "149",
+          "img": "https://ksp.co.il/shop/items/100/152605.jpg",
+          "name": "OtterBox Otterpop Black Case for iPhone 12 And iPhone 12 Pro",
+          "tags": "382,401,485,17718,17719,25796,28313,28735,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "182311",
+          "uinsql": "185518",
+          "price": "149",
+          "img": "https://ksp.co.il/shop/items/100/182311.jpg",
+          "name": "OtterBox Commuter Antimicrobial Black Case for iPhone 12 and iPhone 12 Pro",
+          "tags": "382,401,485,9336,17718,17719,28313,28735,31248,31252,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "48946",
+          "uinsql": "52191",
+          "price": "155",
+          "img": "https://ksp.co.il/shop/items/100/48946.jpg",
+          "name": "Apple USB-C to Lightning Cable 2m",
+          "tags": "38,245,857,1052,1170,1547,1548,2775,9335,17717,17718,17719,17723,28707,28708,28711,28715,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "122906",
+          "uinsql": "116742",
+          "price": "169",
+          "img": "https://ksp.co.il/shop/items/100/122906.jpg",
+          "name": "Belkin 10000mAh 12W 1xUSB-A + 1xUSB Type-C PowerBank With Stand Black",
+          "tags": "382,857,963,999,1083,1658,1691,2846,3288,9335,23957,27250,28313,30001,30072,30073,30123,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "122929",
+          "uinsql": "116708",
+          "price": "179",
+          "img": "https://ksp.co.il/shop/items/100/122929.jpg",
+          "name": "Belkin 10000mAh 1xUSB-A 12W + 1xUSB Type-C 18W PD PowerBank + Cable White",
+          "tags": "383,857,963,999,1083,1658,1691,2846,3288,7389,9335,23957,27250,28313,30072,30073,30123,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "152609",
+          "uinsql": "159861",
+          "price": "189",
+          "img": "https://ksp.co.il/shop/items/100/152609.jpg",
+          "name": "OtterBox Defender Black Case for iPhone 12 And iPhone 12 Pro",
+          "tags": "382,401,485,17718,17719,25797,28313,28735,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "121486",
+          "uinsql": "115019",
+          "price": "189",
+          "img": "https://ksp.co.il/shop/items/100/121486.jpg",
+          "name": "Philips 10000mAh QC3.0 USB 18W PD Wireless Charger PowerBank Black DLP6643C/97",
+          "tags": "382,506,857,999,1083,1658,1691,2693,2846,5200,9335,13346,23957,27250,28313,29737,30001,30073,30123,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "182381",
+          "uinsql": "185516",
+          "price": "189",
+          "img": "https://ksp.co.il/shop/items/100/182381.jpg",
+          "name": "OtterBox Defender XT Black Case with MagSafe for iPhone 12 and iPhone 12 Pro",
+          "tags": "382,401,485,9336,17718,17719,28313,28735,31248,31258,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "187697",
+          "uinsql": "190337",
+          "price": "199",
+          "img": "https://ksp.co.il/shop/items/100/187697.jpg",
+          "name": "Miracase 30000mAh Universal USB Type-C Micro USB Portable PowerBank Black",
+          "tags": "382,857,878,999,1083,1658,2063,2846,9335,28313,31635,32888",
+          "profile": "71"
+        },
+        {
+          "uin": "125980",
+          "uinsql": "118812",
+          "price": "225",
+          "img": "https://ksp.co.il/shop/items/100/125980.jpg",
+          "name": "Apple iPhone 12 / 12 Pro Clear Case With MagSafe ",
+          "tags": "245,401,667,2906,9335,17718,17719,27250,28735,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "187703",
+          "uinsql": "190298",
+          "price": "225",
+          "img": "https://ksp.co.il/shop/items/100/187703.jpg",
+          "name": "Miracase 20000mAh Universal USB Type-C Micro USB Portable PowerBank Black",
+          "tags": "382,857,878,999,1083,1658,2063,2230,2846,9335,28313,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "136268",
+          "uinsql": "127732",
+          "price": "239",
+          "img": "https://ksp.co.il/shop/items/100/136268.jpg",
+          "name": "Choetech Built-In USB-C & Lightning Cables Power Bank 10000mAh B688-CC-BK",
+          "tags": "382,1083,1547,1658,1691,1715,2109,2693,2846,5200,7344,9335,14311,23957,27250,28313,30001,30072,30073,30123,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "135886",
+          "uinsql": "127227",
+          "price": "265",
+          "img": "https://ksp.co.il/shop/items/100/135886.jpg",
+          "name": "NITECORE Portable Power Bank 10000mAh NPB2 ",
+          "tags": "382,857,878,999,1083,1658,1691,1715,2099,2109,5521,9335,10547,11542,28313,30072,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "183804",
+          "uinsql": "186926",
+          "price": "269",
+          "img": "https://ksp.co.il/shop/items/100/183804.jpg",
+          "name": "Belkin Boost Charge Magsafe Portable Wireless Power Bank 10000mAh White",
+          "tags": "383,857,963,999,1083,2846,9335,17717,17718,17719,17723,28313,28707,28708,28711,28715,30072,30620,30621,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "168102",
+          "uinsql": "174198",
+          "price": "269",
+          "img": "https://ksp.co.il/shop/items/100/168102.jpg",
+          "name": "Belkin Boost Charge Magsafe Portable Wireless Power Bank 10000mAh Black",
+          "tags": "382,857,963,999,1083,2846,9335,17717,17718,17719,17723,23957,27250,28313,28707,28708,28711,28715,30001,30072,30073,30123,30620,30621,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "173000",
+          "uinsql": "177705",
+          "price": "279",
+          "img": "https://ksp.co.il/shop/items/100/173000.jpg",
+          "name": "Apple Leather Wallet With MagSafe For iPhone Series 12/13 - Midnight ",
+          "tags": "245,401,2906,9335,17717,17718,17719,17723,28658,28707,28708,28711,28715,28735,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "172997",
+          "uinsql": "177703",
+          "price": "279",
+          "img": "https://ksp.co.il/shop/items/100/172997.jpg",
+          "name": "Apple Leather Wallet With MagSafe For iPhone Series 12/13 - Dark Cherry ",
+          "tags": "245,401,2906,9335,17717,17718,17719,17723,28707,28708,28711,28715,28735,28889,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "172968",
+          "uinsql": "177710",
+          "price": "279",
+          "img": "https://ksp.co.il/shop/items/100/172968.jpg",
+          "name": "Apple Leather Wallet With MagSafe For iPhone Series 12/13 - Golden Brown ",
+          "tags": "245,401,2906,9335,17717,17718,17719,17723,28707,28708,28711,28715,28735,28887,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "172999",
+          "uinsql": "177712",
+          "price": "279",
+          "img": "https://ksp.co.il/shop/items/100/172999.jpg",
+          "name": "Apple Leather Wallet With MagSafe For iPhone Series 12/13 - Sequoia Green ",
+          "tags": "245,401,2906,9335,17717,17718,17719,17723,28707,28708,28711,28715,28735,28892,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "172998",
+          "uinsql": "177702",
+          "price": "279",
+          "img": "https://ksp.co.il/shop/items/100/172998.jpg",
+          "name": "Apple Leather Wallet With MagSafe For iPhone Series 12/13 - Wisteria ",
+          "tags": "245,401,2906,9335,17717,17718,17719,17723,28707,28708,28711,28715,28735,28890,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "172822",
+          "uinsql": "177618",
+          "price": "289",
+          "img": "https://ksp.co.il/shop/items/100/172822.jpg",
+          "name": "Belkin Boost Charge Plus Power Bank USB Type-C and Lightning 10000mAh Blue ",
+          "tags": "385,857,963,1083,1547,1691,2846,9335,23957,28313,30072,30073,30123,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "139175",
+          "uinsql": "130544",
+          "price": "289",
+          "img": "https://ksp.co.il/shop/items/100/139175.jpg",
+          "name": "Belkin Boost Charge Wireless Charging Dual Pads 2x15W White WI008vfWH 745883814336",
+          "tags": "383,857,963,2088,5068,7519,9335,23957,27250,28313,29386,30001,30072,30073,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "172817",
+          "uinsql": "177617",
+          "price": "289",
+          "img": "https://ksp.co.il/shop/items/100/172817.jpg",
+          "name": "Belkin Boost Charge Plus Power Bank USB Type-C and Lightning 10000mAh Black",
+          "tags": "382,857,963,1083,1547,1691,2846,9335,28313,30072,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "146442",
+          "uinsql": "136637",
+          "price": "389",
+          "img": "https://ksp.co.il/shop/items/100/146442.jpg",
+          "name": "Belkin Boost Charge Pro 2 in 1 Wireless Charger Stand With MagSafe White ",
+          "tags": "383,857,963,2088,5068,7519,17717,17718,17719,17723,23957,27250,28707,28708,28711,28715,29386,30072,30073,30123,30620,30621,31248,31609,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "61600",
+          "uinsql": "63645",
+          "price": "448",
+          "img": "https://ksp.co.il/shop/items/100/61600.jpg",
+          "name": "Apple AirPods 2 2019 (2nd generation) MV7N2ZM/A",
+          "tags": "242,245,383,607,812,857,1250,1263,5818,7854,9335,11199,27250,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "146436",
+          "uinsql": "136636",
+          "price": "455",
+          "img": "https://ksp.co.il/shop/items/100/146436.jpg",
+          "name": "Belkin Boost Charge Pro 2 in 1 15W Wireless Charger Stand With MagSafe Black",
+          "tags": "382,857,963,2088,5068,7519,17717,17718,17719,17723,23957,27250,28313,28707,28708,28711,28715,29386,30072,30073,30123,30620,30621,31248,31609,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "163082",
+          "uinsql": "171100",
+          "price": "465",
+          "img": "https://ksp.co.il/shop/items/100/163082.jpg",
+          "name": "Apple MagSafe Battery Pack",
+          "tags": "245,383,857,1083,1547,9335,17717,17718,17719,17723,27250,28707,28708,28711,28715,29949,30001,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "127559",
+          "uinsql": "120867",
+          "price": "479",
+          "img": "https://ksp.co.il/shop/items/100/127559.jpg",
+          "name": "Apple MagSafe Duo Charger",
+          "tags": "245,857,2088,2846,5068,9335,27250,29386,29949,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "139139",
+          "uinsql": "130540",
+          "price": "545",
+          "img": "https://ksp.co.il/shop/items/100/139139.jpg",
+          "name": "Belkin Boost Charge 3-In-1 7.5W Wireless Charger With 1.2m Cable Black",
+          "tags": "382,857,963,2088,5068,5130,23957,27250,28313,29386,30072,30073,30123,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "139148",
+          "uinsql": "130541",
+          "price": "545",
+          "img": "https://ksp.co.il/shop/items/100/139148.jpg",
+          "name": "Belkin Boost Charge 3-In-1 7.5W Wireless Charger With 1.2m Cable White WI001vfWH 745883795789\t",
+          "tags": "383,857,963,2088,5068,5130,23957,27250,28313,29386,30001,30072,30073,30123,31248,31635",
+          "profile": "69"
+        },
+        {
+          "uin": "190786",
+          "uinsql": "M124383",
+          "price": "599",
+          "img": "https://ksp.co.il/shop/items/100/190786.jpg",
+          "name": "Display - ORICO Portable Power Station 120W Silver Gray",
+          "tags": "389,390,857,999,1083,1215,1529,1658,1768,2099,2693,2846,4184,4502,4503,5200,9335,20604,20605,20606,20610,31248,31635",
+          "profile": "71"
+        },
+        {
+          "uin": "145733",
+          "uinsql": "135905",
+          "price": "689",
+          "img": "https://ksp.co.il/shop/items/100/145733.jpg",
+          "name": "Belkin Boost Charge Pro 3-In-1 15W Wireless Charger With MagSafe Black",
+          "tags": "382,857,963,2088,5068,5865,5931,6086,6087,6088,6089,6090,6091,7519,14216,14221,16877,16878,16883,16884,17717,17718,17719,17723,23957,27250,28313,28707,28708,28711,28715,28801,28802",
+          "profile": "69"
+        },
+        {
+          "uin": "131917",
+          "uinsql": "124383",
+          "price": "799",
+          "img": "https://ksp.co.il/shop/items/100/131917.jpg",
+          "name": "ORICO Portable Power Station 120W Silver Gray",
+          "tags": "389,390,857,999,1083,1658,1768,2099,2693,2846,4502,4503,5200,9335,20604,20605,20606,20610,28313,31248,31635",
+          "profile": "71"
+        }
+      ]
+    }
+  },
+  "time": 1644662806
+}
