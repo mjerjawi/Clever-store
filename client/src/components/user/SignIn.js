@@ -62,7 +62,7 @@ const SignIn = () => {
   }, [])
 
   const handleFormSubmit = async (values) => {
-    router.push('/profile')
+    // router.push('/profile')
     console.log(values)
   }
 
@@ -73,7 +73,7 @@ const SignIn = () => {
       validationSchema: formSchema,
     })
   return (
-    <StyledCard elevation={3} passwordVisibility={passwordVisibility}>
+    <StyledCard elevation={1} passwordVisibility={passwordVisibility}>
       <form className='content' onSubmit={handleSubmit}>
         <Small
           fontWeight='600'

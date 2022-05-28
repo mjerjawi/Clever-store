@@ -104,7 +104,7 @@ const Topbar = () => {
       >
         <FlexBox className='topbarLeft' alignItems='center'>
           <div className='logo'>
-            <Link href='/'>
+            <Link href='/' passHref>
               <Image
                 display='block'
                 height='28px'

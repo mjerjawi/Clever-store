@@ -1,23 +1,17 @@
 import CleverButton from 'components/CleverButton'
-import Image from 'components/CleverImage'
+
 import CleverTextField from 'components/CleverTextField'
 import FlexBox from 'components/FlexBox'
 import { H3, H6, Small } from 'components/Typography'
 import Visibility from '@mui/icons-material/Visibility'
 import VisibilityOff from '@mui/icons-material/VisibilityOff'
-import {
-  Box,
-  Card,
-  Checkbox,
-  Divider,
-  FormControlLabel,
-  IconButton,
-} from '@mui/material'
+import { Box, Card, IconButton } from '@mui/material'
 import { styled } from '@mui/material/styles'
 import { useFormik } from 'formik'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
-import React, { useCallback, useState } from 'react'
+import React, { useCallback, useState, useEffect } from 'react'
+
 import * as yup from 'yup'
 
 import {
@@ -28,7 +22,7 @@ import {
   useSignInEmailPassword,
   useSignInEmailPasswordless,
   useSignOut,
-  useSignUpEmailPassword
+  useSignUpEmailPassword,
 } from '@nhost/nextjs'
 
 const fbStyle = {
@@ -74,14 +68,22 @@ const StyledCard = styled(({ children, passwordVisibility, ...rest }) => (
 
 const Register = () => {
   const [passwordVisibility, setPasswordVisibility] = useState(false)
+  // Nhost
+
+  const { signUpEmailPassword, ...signUpResult } = useSignUpEmailPassword()
   const router = useRouter()
   const togglePasswordVisibility = useCallback(() => {
     setPasswordVisibility((visible) => !visible)
   }, [])
 
   const handleFormSubmit = async (values) => {
-    router.push('/profile')
-    console.log(values)
+    await signUpEmailPassword(values.email, values.password)
+    console.log(signUpResult)
+    if (signUpResult.isSuccess) {
+      router.push('/')
+    } else {
+      console.log(signUpResult.isError)
+    }
   }
 
   const { values, errors, touched, handleBlur, handleChange, handleSubmit } =
@@ -90,23 +92,13 @@ const Register = () => {
       initialValues,
       validationSchema: formSchema,
     })
-    
+
   return (
-    <StyledCard elevation={3} passwordVisibility={passwordVisibility}>
+    <StyledCard elevation={1} passwordVisibility={passwordVisibility}>
       <form className='content' onSubmit={handleSubmit}>
         <H3 textAlign='center' mb={1}>
           Create Your Account
         </H3>
-        <Small
-          fontWeight='600'
-          fontSize='12px'
-          color='grey.800'
-          textAlign='center'
-          mb={4.5}
-          display='block'
-        >
-          Please fill all fields to continue
-        </Small>
 
         <CleverTextField
           mb={1.5}
@@ -202,32 +194,19 @@ const Register = () => {
           helperText={touched.re_password && errors.re_password}
         />
 
-        <FormControlLabel
-          className='agreement'
-          name='agreement'
-          onChange={handleChange}
-          control={
-            <Checkbox
-              size='small'
-              color='secondary'
-              checked={values.agreement || false}
-            />
-          }
-          label={
-            <FlexBox
-              flexWrap='wrap'
-              alignItems='center'
-              justifyContent='flex-start'
-            >
-              By signing up, you agree to
-              <a href='/' target='_blank' rel='noreferrer noopener'>
-                <H6 ml={1} borderBottom='1px solid' borderColor='grey.900'>
-                  Terms & Condtion
-                </H6>
-              </a>
-            </FlexBox>
-          }
-        />
+        <FlexBox flexWrap='wrap' alignItems='center' justifyContent='center'>
+          <Small
+            fontWeight='600'
+            fontSize='11px'
+            color='grey.800'
+            textAlign='center'
+            mb={4}
+            mt={4}
+            display='block'
+          >
+            By signing up, you agree to our Terms of Use and Privacy Policy.
+          </Small>
+        </FlexBox>
 
         <CleverButton
           variant='contained'
@@ -241,50 +220,8 @@ const Register = () => {
           Create Account
         </CleverButton>
 
-        <Box mb={2} mt={3.3}>
-          <Box width='200px' mx='auto'>
-            <Divider />
-          </Box>
-
-          <FlexBox justifyContent='center' mt={-1.625}>
-            <Box color='grey.600' bgcolor='background.paper' px={2}>
-              or
-            </Box>
-          </FlexBox>
-        </Box>
-
-        <CleverButton
-          className='facebookButton'
-          size='medium'
-          fullWidth
-          sx={{
-            height: 44,
-          }}
-        >
-          <Image
-            src='/assets/images/icons/facebook-filled-white.svg'
-            alt='facebook'
-          />
-          <Box fontSize='12px' ml={1}>
-            Continue with Facebook
-          </Box>
-        </CleverButton>
-        <CleverButton
-          className='googleButton'
-          size='medium'
-          fullWidth
-          sx={{
-            height: 44,
-          }}
-        >
-          <Image src='/assets/images/icons/google-1.svg' alt='facebook' />
-          <Box fontSize='12px' ml={1}>
-            Continue with Google
-          </Box>
-        </CleverButton>
-
         <FlexBox justifyContent='center' alignItems='center' my='1.25rem'>
-          <Box>Already have an account?</Box>
+          <Box>Already have account?</Box>
           <Link href='/login'>
             <a>
               <H6 ml={1} borderBottom='1px solid' borderColor='grey.900'>
@@ -308,18 +245,16 @@ const initialValues = {
 const formSchema = yup.object().shape({
   name: yup.string().required('${path} is required'),
   email: yup.string().email('invalid email').required('${path} is required'),
-  password: yup.string().required('${path} is required'),
+  password: yup
+    .string()
+    .matches(
+      /^.*(?=.{8,})((?=.*[!@#$%^&*()\-_=+{};:,<.>]){1})(?=.*\d)((?=.*[a-z]){1})((?=.*[A-Z]){1}).*$/,
+      'Password must contain at least 8 characters, one uppercase, one number and one special case character'
+    )
+    .required('${path} is required'),
   re_password: yup
     .string()
     .oneOf([yup.ref('password'), null], 'Passwords must match')
     .required('Please re-type password'),
-  agreement: yup
-    .bool()
-    .test(
-      'agreement',
-      'You have to agree with our Terms and Conditions!',
-      (value) => value === true
-    )
-    .required('You have to agree with our Terms and Conditions!'),
 })
 export default Register

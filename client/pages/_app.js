@@ -1,5 +1,3 @@
-import * as React from 'react'
-
 // MUI theme
 import MuiTheme from 'theme/MuiTheme'
 import PropTypes from 'prop-types'
@@ -18,6 +16,10 @@ import { NhostNextProvider } from '@nhost/nextjs'
 import { NhostApolloProvider } from '@nhost/react-apollo'
 import { nhost } from '../helpers'
 
+// Apollo
+import { ApolloProvider } from '@apollo/client'
+import client from '../apollo-client'
+
 const clientSideEmotionCache = createEmotionCache()
 
 function _App(props) {
@@ -25,11 +27,14 @@ function _App(props) {
 
   return (
     <CacheProvider value={emotionCache}>
-      <Head>
-        <meta name='viewport' content='initial-scale=1, width=device-width' />
-      </Head>
       <NhostNextProvider nhost={nhost} initial={pageProps.nhostSession}>
         <NhostApolloProvider nhost={nhost}>
+          <Head>
+            <meta
+              name='viewport'
+              content='initial-scale=1, width=device-width'
+            />
+          </Head>
           <MuiTheme>
             <RtlProvider>
               <div>

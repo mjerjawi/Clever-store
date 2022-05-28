@@ -19,7 +19,7 @@ const StyledBox = styled(FlexBox)(({ theme }) => ({
 
 const CategoryCard = ({ category }) => {
   return (
-    <Grid item item lg={3} xs={6} md={4}>
+    <Grid item lg={3} xs={6} md={4}>
       <StyledBox>
         <Box className='imageContainer'>
           <Image

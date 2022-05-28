@@ -23,16 +23,15 @@ const CategoryMenu = ({ open: isOpen = false, children }) => {
     if (!isOpen) setOpen((open) => !open)
   }
 
-  const handleDocumentClick = () => {
-    if (popoverRef.current && !isOpen) setOpen(false)
-  }
-
   useEffect(() => {
+    const handleDocumentClick = () => {
+      if (popoverRef.current && !isOpen) setOpen(false)
+    }
     window.addEventListener('click', handleDocumentClick)
     return () => {
       window.removeEventListener('click', handleDocumentClick)
     }
-  }, [])
+  }, [isOpen])
   return (
     <Wrapper open={open}>
       {React.cloneElement(children, {

@@ -36,7 +36,7 @@ const Footer = () => {
           <Box py={10} overflow='hidden'>
             <Grid container spacing={3}>
               <Grid item lg={4} md={6} sm={6} xs={12}>
-                <Link href='/'>
+                <Link href='/' passHref>
                   <a>
                     <CleverImage
                       mb={2.5}
@@ -66,7 +66,7 @@ const Footer = () => {
 
                 <div>
                   {aboutLinks.map((item, ind) => (
-                    <Link href='/' key={ind}>
+                    <Link href='/' key={ind} passHref>
                       <StyledLink>{item}</StyledLink>
                     </Link>
                   ))}
@@ -86,7 +86,7 @@ const Footer = () => {
 
                 <div>
                   {customerCareLinks.map((item, ind) => (
-                    <Link href='/' key={ind}>
+                    <Link href='/' key={ind} passHref>
                       <StyledLink>{item}</StyledLink>
                     </Link>
                   ))}

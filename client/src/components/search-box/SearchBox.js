@@ -28,10 +28,13 @@ const SearchBox = () => {
     if (!value) setResultList([])
     else setResultList(dummySearchResult)
   }, 10)
-  const hanldeSearch = useCallback((event) => {
-    event.persist()
-    search(event)
-  }, [])
+  const hanldeSearch = useCallback(
+    (event) => {
+      event.persist()
+      search(event)
+    },
+    [search]
+  )
 
   const handleDocumentClick = () => {
     setResultList([])
@@ -74,7 +77,7 @@ const SearchBox = () => {
       {!!resultList.length && (
         <SearchResultCard elevation={2}>
           {resultList.map((item) => (
-            <Link href={`/product/search/${item}`} key={item}>
+            <Link href={`/product/search/${item}`} key={item} passHref>
               <MenuItem key={item}>{item}</MenuItem>
             </Link>
           ))}

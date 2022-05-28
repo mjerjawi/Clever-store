@@ -13,7 +13,7 @@ const HomeSection3 = () => {
       </H3>
       <Grid container spacing={3}>
         {homeCategories.map((cat) => {
-          return <CategoryCard category={cat} />
+          return <CategoryCard category={cat} key={cat} />
         })}
       </Grid>
     </Fragment>

@@ -36,7 +36,7 @@ const CategoryMenuItem = ({ href, title, caret, children, ...rest }) => {
   const { locale } = useRouter()
   return (
     <Wrapper>
-      <Link href={href}>
+      <Link href={href} passHref>
         <MenuItem className='category-dropdown-link'>
           {rest.icon && <rest.icon fontSize='small' color='inherit' />}
           <span className='title'>{title}</span>
